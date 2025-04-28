@@ -1,0 +1,62 @@
+[
+  {
+    "Aktivite Tipi": "Yüz yüze",
+    "tanim_id": "1722547620799x917731975319106200",
+    "Creation Date": 1722547620799,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547620799x917731975319106200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Aktivite Tipi": "Telefon Görüşmesi",
+    "tanim_id": "1722547629922x251013477667698430",
+    "Creation Date": 1722547629922,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547629922x251013477667698430",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Aktivite Tipi": "Yazılı (E-posta, sms)",
+    "tanim_id": "1722547651011x713841759807235300",
+    "Creation Date": 1722547651011,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547651011x713841759807235300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Aktivite Tipi": "Video Konferans",
+    "tanim_id": "1722547687393x696567099882697900",
+    "Creation Date": 1722547687393,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547687393x696567099882697900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Aktivite Tipi": "Yemekli Toplantı",
+    "tanim_id": "1722547696664x507184401470163400",
+    "Creation Date": 1722547696664,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547696664x507184401470163400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Aktivite Tipi": "Diğer",
+    "tanim_id": "1722547703072x497264160287628400",
+    "Creation Date": 1722547703072,
+    "Modified Date": 1744016084664,
+    "unique id": "1722547703072x497264160287628400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
