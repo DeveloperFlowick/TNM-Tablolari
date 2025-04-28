@@ -1,0 +1,92 @@
+[
+  {
+    "Avans Tipi": "Vefat",
+    "tanim_id": "1710782743221x880017960096143400",
+    "Creation Date": 1710782743221,
+    "Modified Date": 1744016066906,
+    "unique id": "1710782743221x880017960096143400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Eğitim",
+    "tanim_id": "1710782751003x593508095355554700",
+    "Creation Date": 1710782751003,
+    "Modified Date": 1744016066906,
+    "unique id": "1710782751003x593508095355554700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Evlilik",
+    "tanim_id": "1710782759171x497854301591899700",
+    "Creation Date": 1710782759171,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782759171x497854301591899700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Taşınma",
+    "tanim_id": "1710782767710x359049134823568500",
+    "Creation Date": 1710782767710,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782767710x359049134823568500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Sağlık",
+    "tanim_id": "1710782776546x547633603097719550",
+    "Creation Date": 1710782776546,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782776546x547633603097719550",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Görevlendirme",
+    "tanim_id": "1710782811218x621316402046865200",
+    "Creation Date": 1710782811218,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782811218x621316402046865200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Banka Kredisi",
+    "tanim_id": "1710782831644x671387045059339500",
+    "Creation Date": 1710782831645,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782831644x671387045059339500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Diğer",
+    "tanim_id": "1710782839070x856569551059739300",
+    "Creation Date": 1710782839070,
+    "Modified Date": 1744016066907,
+    "unique id": "1710782839070x856569551059739300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Avans Tipi": "Proje",
+    "tanim_id": "1724147175396x446397183759960500",
+    "Creation Date": 1724147175396,
+    "Modified Date": 1744016066908,
+    "unique id": "1724147175396x446397183759960500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
