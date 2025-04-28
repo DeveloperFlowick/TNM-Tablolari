@@ -1,0 +1,92 @@
+[
+  {
+    "Etkinlik Tipi": "Toplantı",
+    "tanim_id": "1709245221464x945977683516003000",
+    "Creation Date": 1709245221465,
+    "Modified Date": 1744016100373,
+    "unique id": "1709245221464x945977683516003000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Görev",
+    "tanim_id": "1709245228623x904481218947342100",
+    "Creation Date": 1709245228623,
+    "Modified Date": 1744016100373,
+    "unique id": "1709245228623x904481218947342100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Hatırlatma",
+    "tanim_id": "1710782110864x838689875430859100",
+    "Creation Date": 1710782110864,
+    "Modified Date": 1744016100373,
+    "unique id": "1710782110864x838689875430859100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Davetiye",
+    "tanim_id": "1710782123309x438167748958344900",
+    "Creation Date": 1710782123309,
+    "Modified Date": 1744016100374,
+    "unique id": "1710782123309x438167748958344900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Kutlama",
+    "tanim_id": "1710782142491x737250361705509100",
+    "Creation Date": 1710782142491,
+    "Modified Date": 1744016100374,
+    "unique id": "1710782142491x737250361705509100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Mülakat",
+    "tanim_id": "1710782164505x626798714237633700",
+    "Creation Date": 1710782164505,
+    "Modified Date": 1744016100374,
+    "unique id": "1710782164505x626798714237633700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Duyuru",
+    "tanim_id": "1710782532340x496349863407000700",
+    "Creation Date": 1710782532340,
+    "Modified Date": 1744016100375,
+    "unique id": "1710782532340x496349863407000700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Not",
+    "tanim_id": "1710782539667x559842226285864900",
+    "Creation Date": 1710782539667,
+    "Modified Date": 1744016100375,
+    "unique id": "1710782539667x559842226285864900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Etkinlik Tipi": "Sunum",
+    "tanim_id": "1710782548033x607374919531123300",
+    "Creation Date": 1710782548033,
+    "Modified Date": 1744016100375,
+    "unique id": "1710782548033x607374919531123300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
