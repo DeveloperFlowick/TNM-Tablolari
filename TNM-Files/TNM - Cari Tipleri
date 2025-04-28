@@ -1,0 +1,72 @@
+[
+  {
+    "Cari Tipi": "Personel",
+    "tanim_id": "1710778265199x567194496165039200",
+    "Creation Date": 1710778265199,
+    "Modified Date": 1744015984887,
+    "unique id": "1710778265199x567194496165039200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Müşteri",
+    "tanim_id": "1710778270337x406093011146226400",
+    "Creation Date": 1710778270337,
+    "Modified Date": 1744015984887,
+    "unique id": "1710778270337x406093011146226400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Tedarikçi",
+    "tanim_id": "1710778303291x738733475731257100",
+    "Creation Date": 1710778303291,
+    "Modified Date": 1744015984888,
+    "unique id": "1710778303291x738733475731257100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Kanal",
+    "tanim_id": "1710778308126x753559788617064000",
+    "Creation Date": 1710778308126,
+    "Modified Date": 1744015984888,
+    "unique id": "1710778308126x753559788617064000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Bayi",
+    "tanim_id": "1728989686719x124566354680646370",
+    "Creation Date": 1728989686719,
+    "Modified Date": 1744015984888,
+    "unique id": "1728989686719x124566354680646370",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Distribütör",
+    "tanim_id": "1728989705065x526154996451271040",
+    "Creation Date": 1728989705065,
+    "Modified Date": 1744015984888,
+    "unique id": "1728989705065x526154996451271040",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cari Tipi": "Aday Personel",
+    "tanim_id": "1740334643087x153524896284009000",
+    "Creation Date": 1740334643087,
+    "Modified Date": 1744015984888,
+    "unique id": "1740334643087x153524896284009000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
