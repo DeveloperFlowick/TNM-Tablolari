@@ -1,0 +1,41 @@
+[
+  {
+    "Açıklama": "",
+    "Image": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1744151340451x221311237179188540/Flowick%20Logo%20-%20%C5%9Eeffaf%20Arkaplan%20Cut.png",
+    "Başlık": "Powered by Flowick",
+    "tanim_id": "1705849939851x367659716052152800",
+    "Tip": "Powered_by",
+    "Creation Date": 1705849939851,
+    "Modified Date": 1744151343465,
+    "unique id": "1705849939851x367659716052152800",
+    "Slug": "",
+    "Creator": "admin_user_ateco_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "",
+    "Image": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1744150163036x363573669806959360/flowick%20giri%C5%9F%20bg.png",
+    "Başlık": "Giriş Arkaplan",
+    "tanim_id": "1744150182936x430524981648394700",
+    "Tip": "giris_arkaplan",
+    "Creation Date": 1744150182936,
+    "Modified Date": 1744150189551,
+    "unique id": "1744150182936x430524981648394700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "",
+    "Image": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1744150998623x728437261882169700/Flowick%20Logo%20-%20%C5%9Eeffaf%20Arkaplan%20Cut.png",
+    "Başlık": "Flowick BPM",
+    "tanim_id": "1744150283141x256864984167368700",
+    "Tip": "giris_firma_bilgi",
+    "Creation Date": 1744150283141,
+    "Modified Date": 1744151002611,
+    "unique id": "1744150283141x256864984167368700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
