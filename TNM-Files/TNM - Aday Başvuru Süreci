@@ -1,0 +1,82 @@
+[
+  {
+    "Başvuru Süreci": "Değerlendirme Aşamasında",
+    "tanim_id": "1738933479053x361950654109377500",
+    "Creation Date": 1738933479053,
+    "Modified Date": 1744016080810,
+    "unique id": "1738933479053x361950654109377500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "Teklif Aşamasında",
+    "tanim_id": "1738933530272x386753779375186050",
+    "Creation Date": 1738933530272,
+    "Modified Date": 1744016080810,
+    "unique id": "1738933530272x386753779375186050",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "Telefon Mülakatı",
+    "tanim_id": "1739173816498x824722785850239200",
+    "Creation Date": 1739173816498,
+    "Modified Date": 1744016080810,
+    "unique id": "1739173816498x824722785850239200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "Yüz Yüze Mülakat",
+    "tanim_id": "1739173862098x389860242519803000",
+    "Creation Date": 1739173862098,
+    "Modified Date": 1744016080810,
+    "unique id": "1739173862098x389860242519803000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "2. Yüz Yüze Mülakat",
+    "tanim_id": "1739173919586x729351826471709300",
+    "Creation Date": 1739173919586,
+    "Modified Date": 1744016080810,
+    "unique id": "1739173919586x729351826471709300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "Envanter Çalışması",
+    "tanim_id": "1739173937201x443918541368944600",
+    "Creation Date": 1739173937201,
+    "Modified Date": 1744016080811,
+    "unique id": "1739173937201x443918541368944600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "Referans Kontrol",
+    "tanim_id": "1739173967860x167915065555416030",
+    "Creation Date": 1739173967860,
+    "Modified Date": 1744016080811,
+    "unique id": "1739173967860x167915065555416030",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Başvuru Süreci": "İşe Alım",
+    "tanim_id": "1739173989922x839623083122085000",
+    "Creation Date": 1739173989922,
+    "Modified Date": 1744016080811,
+    "unique id": "1739173989922x839623083122085000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
