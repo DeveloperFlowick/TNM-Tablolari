@@ -1,0 +1,24 @@
+[
+  {
+    "Adı": "Aktif",
+    "Aktif": true,
+    "tanim_id": "1741814387611x489362684533470400",
+    "Creation Date": 1741814387611,
+    "Modified Date": 1744016033388,
+    "unique id": "1741814387611x489362684533470400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Pasif",
+    "Aktif": false,
+    "tanim_id": "1741814395055x441933286468989500",
+    "Creation Date": 1741814395055,
+    "Modified Date": 1744016033388,
+    "unique id": "1741814395055x441933286468989500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
