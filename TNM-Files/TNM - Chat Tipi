@@ -1,0 +1,22 @@
+[
+  {
+    "Chat Tipi": "Sohbet",
+    "tanim_id": "1710890172434x934613300663912600",
+    "Creation Date": 1710890172434,
+    "Modified Date": 1744016214319,
+    "unique id": "1710890172434x934613300663912600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Chat Tipi": "Grup",
+    "tanim_id": "1710890733529x679775497298131800",
+    "Creation Date": 1710890733529,
+    "Modified Date": 1744016214319,
+    "unique id": "1710890733529x679775497298131800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
