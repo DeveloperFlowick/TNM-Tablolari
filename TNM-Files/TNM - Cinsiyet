@@ -1,0 +1,22 @@
+[
+  {
+    "Cinsiyet": "Erkek",
+    "tanim_id": "1709001082390x564797689557425840",
+    "Creation Date": 1709001082390,
+    "Modified Date": 1744016116719,
+    "unique id": "1709001082390x564797689557425840",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Cinsiyet": "Kadın",
+    "tanim_id": "1709001087772x536966291055212700",
+    "Creation Date": 1709001087772,
+    "Modified Date": 1744016116719,
+    "unique id": "1709001087772x536966291055212700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
