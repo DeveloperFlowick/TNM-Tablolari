@@ -1,0 +1,32 @@
+[
+  {
+    "Kategori-Adı": "Standart Bildirim",
+    "Kategori-ID": 1,
+    "Creation Date": 1725520674651,
+    "Modified Date": 1725520674652,
+    "unique id": "1725520674651x352281378763196200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori-Adı": "Chat Bildirimi",
+    "Kategori-ID": 2,
+    "Creation Date": 1727993733645,
+    "Modified Date": 1727993733647,
+    "unique id": "1727993733645x921727811743510800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori-Adı": "Yardes_Degerlendirme",
+    "Kategori-ID": 3,
+    "Creation Date": 1733837779472,
+    "Modified Date": 1733837779474,
+    "unique id": "1733837779472x609226648664800400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
