@@ -1,0 +1,68 @@
+[
+  {
+    "Region_Adı": "Afrika",
+    "Region_ID": 1,
+    "tanim_id": "1721131952938x117721218488441300",
+    "Creation Date": 1721131952938,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952938x117721218488441300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Region_Adı": "Antarktika",
+    "Region_ID": 6,
+    "tanim_id": "1721131952939x310830325224424900",
+    "Creation Date": 1721131952939,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952939x310830325224424900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Region_Adı": "Amerika",
+    "Region_ID": 2,
+    "tanim_id": "1721131952939x358558631859305300",
+    "Creation Date": 1721131952939,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952939x358558631859305300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Region_Adı": "Avrupa",
+    "Region_ID": 4,
+    "tanim_id": "1721131952939x407815299936397760",
+    "Creation Date": 1721131952939,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952939x407815299936397760",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Region_Adı": "Asya",
+    "Region_ID": 3,
+    "tanim_id": "1721131952939x514282557299585500",
+    "Creation Date": 1721131952939,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952939x514282557299585500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Region_Adı": "Okyanusya",
+    "Region_ID": 5,
+    "tanim_id": "1721131952939x903512126072137100",
+    "Creation Date": 1721131952939,
+    "Modified Date": 1744016049321,
+    "unique id": "1721131952939x903512126072137100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
