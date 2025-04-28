@@ -1,0 +1,62 @@
+[
+  {
+    "Eğitim Düzeyi": "Üniversite",
+    "tanim_id": "1711015855371x472465853735428030",
+    "Creation Date": 1711015855371,
+    "Modified Date": 1744016200109,
+    "unique id": "1711015855371x472465853735428030",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Eğitim Düzeyi": "Lise",
+    "tanim_id": "1711015860779x671376004377899400",
+    "Creation Date": 1711015860779,
+    "Modified Date": 1744016200109,
+    "unique id": "1711015860779x671376004377899400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Eğitim Düzeyi": "Orta Okul",
+    "tanim_id": "1711890788247x810642725469617800",
+    "Creation Date": 1711890788247,
+    "Modified Date": 1744016200110,
+    "unique id": "1711890788247x810642725469617800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Eğitim Düzeyi": "Yüksek Lisans",
+    "tanim_id": "1711890799548x623865346385858000",
+    "Creation Date": 1711890799548,
+    "Modified Date": 1744016200110,
+    "unique id": "1711890799548x623865346385858000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Eğitim Düzeyi": "Doktora",
+    "tanim_id": "1711890810405x284796398130560120",
+    "Creation Date": 1711890810405,
+    "Modified Date": 1744016200110,
+    "unique id": "1711890810405x284796398130560120",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Eğitim Düzeyi": "İlkokul",
+    "tanim_id": "1711890823191x835242170123638100",
+    "Creation Date": 1711890823191,
+    "Modified Date": 1744016200110,
+    "unique id": "1711890823191x835242170123638100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
