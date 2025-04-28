@@ -1,0 +1,122 @@
+[
+  {
+    "Kaza Türü": "Çarpma/Çarpışma",
+    "tanim_id": "1741780292638x255386330748599740",
+    "Creation Date": 1741780292638,
+    "Modified Date": 1744016138311,
+    "unique id": "1741780292638x255386330748599740",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Mekanik Hasar",
+    "tanim_id": "1741780304543x245641137736260600",
+    "Creation Date": 1741780304543,
+    "Modified Date": 1744016138361,
+    "unique id": "1741780304543x245641137736260600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Elektronik Hasar",
+    "tanim_id": "1741780318392x443974278349185340",
+    "Creation Date": 1741780318392,
+    "Modified Date": 1744016138362,
+    "unique id": "1741780318392x443974278349185340",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Yanma",
+    "tanim_id": "1741780324614x882985597417013400",
+    "Creation Date": 1741780324614,
+    "Modified Date": 1744016138362,
+    "unique id": "1741780324614x882985597417013400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Çalınma veya Teşebbüs",
+    "tanim_id": "1741780349368x851055278017760500",
+    "Creation Date": 1741780349368,
+    "Modified Date": 1744016138362,
+    "unique id": "1741780349368x851055278017760500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Deprem Hasarı",
+    "tanim_id": "1741780362155x980730839649423900",
+    "Creation Date": 1741780362155,
+    "Modified Date": 1744016138362,
+    "unique id": "1741780362155x980730839649423900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Sel Hasarı",
+    "tanim_id": "1741780369183x151980595120579940",
+    "Creation Date": 1741780369183,
+    "Modified Date": 1744016138362,
+    "unique id": "1741780369183x151980595120579940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Dolu Hasarı",
+    "tanim_id": "1741780381015x717422793196708700",
+    "Creation Date": 1741780381015,
+    "Modified Date": 1744016138363,
+    "unique id": "1741780381015x717422793196708700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Sel Hasarı",
+    "tanim_id": "1741780388572x757008447765202600",
+    "Creation Date": 1741780388572,
+    "Modified Date": 1744016138363,
+    "unique id": "1741780388572x757008447765202600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Terör Hasarı",
+    "tanim_id": "1741780404932x206933124286528220",
+    "Creation Date": 1741780404932,
+    "Modified Date": 1744016138363,
+    "unique id": "1741780404932x206933124286528220",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Yanlış Akaryakıt Hasarı",
+    "tanim_id": "1741780422167x732173916508641200",
+    "Creation Date": 1741780422167,
+    "Modified Date": 1744016138363,
+    "unique id": "1741780422167x732173916508641200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kaza Türü": "Kilit Sistemi ve Anahtar Kaybı",
+    "tanim_id": "1741780439971x129216308003716760",
+    "Creation Date": 1741780439971,
+    "Modified Date": 1744016138363,
+    "unique id": "1741780439971x129216308003716760",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
