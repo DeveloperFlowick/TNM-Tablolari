@@ -1,0 +1,22 @@
+[
+  {
+    "BE Workflow Kodu": 1,
+    "BE Workflow Adı": "İzin Hak Ediş Yenileme",
+    "Creation Date": 1726958398315,
+    "Modified Date": 1726958398316,
+    "unique id": "1726958398315x688147086046093700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "BE Workflow Kodu": 2,
+    "BE Workflow Adı": "PDKS Günlük Master Kaydı",
+    "Creation Date": 1732477132638,
+    "Modified Date": 1732477132640,
+    "unique id": "1732477132638x976953429305691100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
