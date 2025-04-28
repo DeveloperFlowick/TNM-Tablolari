@@ -1,0 +1,52 @@
+[
+  {
+    "Adı": "Ürün",
+    "Sıra": 1,
+    "Creation Date": 1744626724551,
+    "Modified Date": 1744628581977,
+    "unique id": "1744626724551x872813705035567500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Ürün Kodu",
+    "Sıra": 2,
+    "Creation Date": 1744626731645,
+    "Modified Date": 1744628595450,
+    "unique id": "1744626731645x377695695293295740",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Birim",
+    "Sıra": 3,
+    "Creation Date": 1744626740843,
+    "Modified Date": 1744628598485,
+    "unique id": "1744626740843x919435690573532500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Kategori",
+    "Sıra": 4,
+    "Creation Date": 1744626746092,
+    "Modified Date": 1744628606092,
+    "unique id": "1744626746092x189862625966898960",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Marka",
+    "Sıra": 5,
+    "Creation Date": 1744626750427,
+    "Modified Date": 1744628609240,
+    "unique id": "1744626750427x587205627737558400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
