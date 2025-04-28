@@ -1,0 +1,42 @@
+[
+  {
+    "Değerlendirme Durumu": "İyi Eşleşme",
+    "tanim_id": "1737719811262x526494629190778800",
+    "Creation Date": 1737719811262,
+    "Modified Date": 1744016050510,
+    "unique id": "1737719811262x526494629190778800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Değerlendirme Durumu": "Kötü Eşleşme",
+    "tanim_id": "1737719827874x474251758594934850",
+    "Creation Date": 1737719827874,
+    "Modified Date": 1744016050510,
+    "unique id": "1737719827874x474251758594934850",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Değerlendirme Durumu": "Değerlendirilebilir",
+    "tanim_id": "1737719850851x558639560487570400",
+    "Creation Date": 1737719850851,
+    "Modified Date": 1744016050510,
+    "unique id": "1737719850851x558639560487570400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Değerlendirme Durumu": "Değerlendirme Bekleyenler",
+    "tanim_id": "1737719862768x839253424337461600",
+    "Creation Date": 1737719862768,
+    "Modified Date": 1744016050510,
+    "unique id": "1737719862768x839253424337461600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
