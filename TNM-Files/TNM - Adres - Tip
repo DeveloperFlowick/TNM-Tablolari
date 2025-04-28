@@ -1,0 +1,32 @@
+[
+  {
+    "Adres Tipi": "Şirket",
+    "tanim_id": "1707948800023x382593648205318100",
+    "Creation Date": 1707948800023,
+    "Modified Date": 1744015996111,
+    "unique id": "1707948800023x382593648205318100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adres Tipi": "Fatura",
+    "tanim_id": "1707948807256x345754893712568500",
+    "Creation Date": 1707948807256,
+    "Modified Date": 1744015996111,
+    "unique id": "1707948807256x345754893712568500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adres Tipi": "Ev",
+    "tanim_id": "1707948812851x241298017844425060",
+    "Creation Date": 1707948812851,
+    "Modified Date": 1744015996111,
+    "unique id": "1707948812851x241298017844425060",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
