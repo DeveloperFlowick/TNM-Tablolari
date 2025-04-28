@@ -1,0 +1,32 @@
+[
+  {
+    "Birim Tipi": "Ağırlık",
+    "tanim_id": "1737757636465x419670611047874050",
+    "Creation Date": 1737757636465,
+    "Modified Date": 1744016083455,
+    "unique id": "1737757636465x419670611047874050",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Birim Tipi": "Zaman",
+    "tanim_id": "1737757642042x216624818893675900",
+    "Creation Date": 1737757642042,
+    "Modified Date": 1744016083455,
+    "unique id": "1737757642042x216624818893675900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Birim Tipi": "Uzunluk",
+    "tanim_id": "1737757647514x199909287524787420",
+    "Creation Date": 1737757647514,
+    "Modified Date": 1744016083455,
+    "unique id": "1737757647514x199909287524787420",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
