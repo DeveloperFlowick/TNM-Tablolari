@@ -1,0 +1,22 @@
+[
+  {
+    "Bakım Türü": "Onarım",
+    "tanim_id": "1741875105563x927999512170027900",
+    "Creation Date": 1741875105563,
+    "Modified Date": 1744016098962,
+    "unique id": "1741875105563x927999512170027900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Bakım Türü": "Bakım",
+    "tanim_id": "1741875111572x651340145911006200",
+    "Creation Date": 1741875111572,
+    "Modified Date": 1744016098962,
+    "unique id": "1741875111572x651340145911006200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
