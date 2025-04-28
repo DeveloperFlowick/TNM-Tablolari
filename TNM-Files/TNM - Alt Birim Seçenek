@@ -1,0 +1,145 @@
+[
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Acente",
+    "tanim_id": "1708988029153x321466754147057900",
+    "Creation Date": 1708988029153,
+    "Modified Date": 1744016110838,
+    "unique id": "1708988029153x321466754147057900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Şube",
+    "tanim_id": "1708988059667x352166749413056900",
+    "Creation Date": 1708988059667,
+    "Modified Date": 1744016110838,
+    "unique id": "1708988059667x352166749413056900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Depo",
+    "tanim_id": "1708988065398x422072046633795260",
+    "Creation Date": 1708988065398,
+    "Modified Date": 1744016110843,
+    "unique id": "1708988065398x422072046633795260",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Bölüm",
+    "tanim_id": "1708988071957x311579094282529400",
+    "Creation Date": 1708988071957,
+    "Modified Date": 1744016110844,
+    "unique id": "1708988071957x311579094282529400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Merkez",
+    "tanim_id": "1710782635512x440601503851356400",
+    "Creation Date": 1710782635512,
+    "Modified Date": 1744016110844,
+    "unique id": "1710782635512x440601503851356400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427043292x204510019082909660",
+    "Alt Birim Seçenek Adı": "Ev",
+    "tanim_id": "1710782645402x763459412371402200",
+    "Creation Date": 1710782645402,
+    "Modified Date": 1744016110844,
+    "unique id": "1710782645402x763459412371402200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Antrepo",
+    "tanim_id": "1710782655550x926954790310269700",
+    "Creation Date": 1710782655550,
+    "Modified Date": 1744016110844,
+    "unique id": "1710782655550x926954790310269700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427058909x687762006536532900",
+    "Alt Birim Seçenek Adı": "Müşteri Lokasyon",
+    "tanim_id": "1710782670404x966463791197224100",
+    "Creation Date": 1710782670404,
+    "Modified Date": 1744016110844,
+    "unique id": "1710782670404x966463791197224100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427079139x677319359198297700",
+    "Alt Birim Seçenek Adı": "Proje Lokasyon",
+    "tanim_id": "1710782704116x424672713224133060",
+    "Creation Date": 1710782704116,
+    "Modified Date": 1744016110844,
+    "unique id": "1710782704116x424672713224133060",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427043292x204510019082909660",
+    "Alt Birim Seçenek Adı": "Personel",
+    "tanim_id": "1716265027931x450089545020472500",
+    "Creation Date": 1716265027931,
+    "Modified Date": 1744016110845,
+    "unique id": "1716265027931x450089545020472500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427070488x104332136743037870",
+    "Alt Birim Seçenek Adı": "Araç",
+    "tanim_id": "1743597221041x889105683979423200",
+    "Creation Date": 1743597221041,
+    "Modified Date": 1744016110845,
+    "unique id": "1743597221041x889105683979423200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1743427079139x677319359198297700",
+    "Alt Birim Seçenek Adı": "Proje Depo",
+    "tanim_id": "1743814501997x922567293874143100",
+    "Creation Date": 1743814501997,
+    "Modified Date": 1744016110845,
+    "unique id": "1743814501997x922567293874143100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Alt Birim Tipi": "1744648708789x104283194746933820",
+    "Alt Birim Seçenek Adı": "Geçiş Noktası",
+    "tanim_id": "1744648730581x274566632245840000",
+    "Creation Date": 1744648730581,
+    "Modified Date": 1744648736246,
+    "unique id": "1744648730581x274566632245840000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
