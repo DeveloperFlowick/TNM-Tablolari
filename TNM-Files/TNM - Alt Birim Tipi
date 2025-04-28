@@ -1,0 +1,52 @@
+[
+  {
+    "tanim_id": "1743427043292x204510019082909660",
+    "Tip Adı": "Personel",
+    "Creation Date": 1743427043292,
+    "Modified Date": 1744016064404,
+    "unique id": "1743427043292x204510019082909660",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1743427058909x687762006536532900",
+    "Tip Adı": "Firma",
+    "Creation Date": 1743427058909,
+    "Modified Date": 1744016064404,
+    "unique id": "1743427058909x687762006536532900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1743427070488x104332136743037870",
+    "Tip Adı": "Araç",
+    "Creation Date": 1743427070488,
+    "Modified Date": 1744016064405,
+    "unique id": "1743427070488x104332136743037870",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1743427079139x677319359198297700",
+    "Tip Adı": "Proje",
+    "Creation Date": 1743427079139,
+    "Modified Date": 1744016064405,
+    "unique id": "1743427079139x677319359198297700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1744648708789x104283194746933820",
+    "Tip Adı": "PDKS",
+    "Creation Date": 1744648708789,
+    "Modified Date": 1744648713456,
+    "unique id": "1744648708789x104283194746933820",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
