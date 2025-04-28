@@ -1,0 +1,22 @@
+[
+  {
+    "tanim_id": "1731409273315x389458694469055400",
+    "Tip": "Gelir",
+    "Creation Date": 1731409273315,
+    "Modified Date": 1744016101612,
+    "unique id": "1731409273315x389458694469055400",
+    "Slug": 1,
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1731409292388x137631170166407470",
+    "Tip": "Gider",
+    "Creation Date": 1731409292388,
+    "Modified Date": 1744016101612,
+    "unique id": "1731409292388x137631170166407470",
+    "Slug": 2,
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
