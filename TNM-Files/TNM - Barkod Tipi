@@ -1,0 +1,35 @@
+[
+  {
+    "Barkod Sayısı": 12,
+    "Barkod Tipi": "EAN13",
+    "tanim_id": "1713293174493x359630126194612200",
+    "Creation Date": 1713293174493,
+    "Modified Date": 1744016218464,
+    "unique id": "1713293174493x359630126194612200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Barkod Sayısı": 7,
+    "Barkod Tipi": "EAN8",
+    "tanim_id": "1713293318940x440662466847457000",
+    "Creation Date": 1713293318940,
+    "Modified Date": 1744016218464,
+    "unique id": "1713293318940x440662466847457000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Barkod Sayısı": 12,
+    "Barkod Tipi": "Code128",
+    "tanim_id": "1713293405190x263303191176422080",
+    "Creation Date": 1713293405190,
+    "Modified Date": 1744016218465,
+    "unique id": "1713293405190x263303191176422080",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
