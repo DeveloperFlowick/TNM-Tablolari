@@ -1,0 +1,68 @@
+[
+  {
+    "Kategori adı": "Görsel",
+    "Kategori ID": 1,
+    "tanim_id": "1734422156962x984679945260517500",
+    "Creation Date": 1734422156963,
+    "Modified Date": 1744016115486,
+    "unique id": "1734422156962x984679945260517500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori adı": "Metin",
+    "Kategori ID": 2,
+    "tanim_id": "1734422165215x266359321917531740",
+    "Creation Date": 1734422165215,
+    "Modified Date": 1744016115487,
+    "unique id": "1734422165215x266359321917531740",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori adı": "Video",
+    "Kategori ID": 3,
+    "tanim_id": "1734422178671x114017638265843330",
+    "Creation Date": 1734422178672,
+    "Modified Date": 1744016115487,
+    "unique id": "1734422178671x114017638265843330",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori adı": "Proje Dosyası",
+    "Kategori ID": 4,
+    "tanim_id": "1734422190116x958036133415242800",
+    "Creation Date": 1734422190116,
+    "Modified Date": 1744016115487,
+    "unique id": "1734422190116x958036133415242800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori adı": "Sıkıştırılmış Dosya",
+    "Kategori ID": 5,
+    "tanim_id": "1734422265310x828651160065552200",
+    "Creation Date": 1734422265310,
+    "Modified Date": 1744016115487,
+    "unique id": "1734422265310x828651160065552200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kategori adı": "E-Tablo",
+    "Kategori ID": 6,
+    "tanim_id": "1734429845444x802154059356979300",
+    "Creation Date": 1734429845444,
+    "Modified Date": 1744016115487,
+    "unique id": "1734429845444x802154059356979300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
