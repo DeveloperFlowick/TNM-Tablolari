@@ -1,0 +1,32 @@
+[
+  {
+    "Statu": "Aktif",
+    "tanim_id": "1733692291689x426118616506925500",
+    "Creation Date": 1733692291689,
+    "Modified Date": 1744016135367,
+    "unique id": "1733692291689x426118616506925500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Statu": "Bakımda",
+    "tanim_id": "1733692299138x167265248902404450",
+    "Creation Date": 1733692299138,
+    "Modified Date": 1744016135367,
+    "unique id": "1733692299138x167265248902404450",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Statu": "Yakında",
+    "tanim_id": "1733692307545x238681072065956220",
+    "Creation Date": 1733692307545,
+    "Modified Date": 1744016135367,
+    "unique id": "1733692307545x238681072065956220",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
