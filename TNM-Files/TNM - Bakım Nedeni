@@ -1,0 +1,32 @@
+[
+  {
+    "Bakım Nedeni": "Periyodik Bakım",
+    "tanim_id": "1741875050350x912938452783231100",
+    "Creation Date": 1741875050350,
+    "Modified Date": 1744015986489,
+    "unique id": "1741875050350x912938452783231100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Bakım Nedeni": "Arıza",
+    "tanim_id": "1741875059586x810097670177442300",
+    "Creation Date": 1741875059586,
+    "Modified Date": 1744015986489,
+    "unique id": "1741875059586x810097670177442300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Bakım Nedeni": "Kaza",
+    "tanim_id": "1741875066743x350054126217922200",
+    "Creation Date": 1741875066743,
+    "Modified Date": 1744015986489,
+    "unique id": "1741875066743x350054126217922200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
