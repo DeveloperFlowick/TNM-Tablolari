@@ -1,0 +1,67 @@
+[
+  {
+    "Adı": "Çok Kötü",
+    "Değerlendirme sayısı": "3 , 4 , 5",
+    "Renk": "#FF0000",
+    "Sıra": 1,
+    "tanim_id": "1739835062103x393719632192180300",
+    "Creation Date": 1739835062103,
+    "Modified Date": 1744016015060,
+    "unique id": "1739835062103x393719632192180300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Kötü",
+    "Değerlendirme sayısı": "4 , 5",
+    "Renk": "#EE6D11",
+    "Sıra": 2,
+    "tanim_id": "1739835084047x945957360739968500",
+    "Creation Date": 1739835084047,
+    "Modified Date": 1744016015060,
+    "unique id": "1739835084047x945957360739968500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Orta",
+    "Değerlendirme sayısı": "3 , 5",
+    "Renk": "#FAB515",
+    "Sıra": 3,
+    "tanim_id": "1739835111160x803613840132051200",
+    "Creation Date": 1739835111161,
+    "Modified Date": 1744016015060,
+    "unique id": "1739835111160x803613840132051200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "İyi",
+    "Değerlendirme sayısı": "4 , 5",
+    "Renk": "#A5D917",
+    "Sıra": 4,
+    "tanim_id": "1739835186132x690729825973698000",
+    "Creation Date": 1739835186132,
+    "Modified Date": 1744016015060,
+    "unique id": "1739835186132x690729825973698000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Adı": "Çok İyi",
+    "Değerlendirme sayısı": "3 , 4 , 5",
+    "Renk": "#17DB4E",
+    "Sıra": 5,
+    "tanim_id": "1739835220331x211039992172407780",
+    "Creation Date": 1739835220331,
+    "Modified Date": 1744016015060,
+    "unique id": "1739835220331x211039992172407780",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
