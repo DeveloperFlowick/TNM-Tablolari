@@ -1,0 +1,29 @@
+[
+  {
+    "Faturalama Periyodu": "Aylık",
+    "Creation Date": 1708293310979,
+    "Modified Date": 1708293310981,
+    "unique id": "1708293310979x883510084855295000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Faturalama Periyodu": "Yıllık",
+    "Creation Date": 1708293317896,
+    "Modified Date": 1708293317898,
+    "unique id": "1708293317896x711682925012929800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Faturalama Periyodu": "Demo",
+    "Creation Date": 1708293324009,
+    "Modified Date": 1708293324011,
+    "unique id": "1708293324009x128369143988248380",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
