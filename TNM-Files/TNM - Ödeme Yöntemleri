@@ -1,0 +1,62 @@
+[
+  {
+    "Ödeme Yöntemi": "Nakit",
+    "tanim_id": "1740237877346x225644483955127040",
+    "Creation Date": 1740237877346,
+    "Modified Date": 1744016009768,
+    "unique id": "1740237877346x225644483955127040",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ödeme Yöntemi": "Hediye Çeki",
+    "tanim_id": "1740237890102x852698712337436300",
+    "Creation Date": 1740237890102,
+    "Modified Date": 1744016009769,
+    "unique id": "1740237890102x852698712337436300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ödeme Yöntemi": "Yemek Kartı",
+    "tanim_id": "1740237895769x455473051532962800",
+    "Creation Date": 1740237895770,
+    "Modified Date": 1744016009769,
+    "unique id": "1740237895769x455473051532962800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ödeme Yöntemi": "Ulaşım Kartı",
+    "tanim_id": "1740237928329x437670259207943550",
+    "Creation Date": 1740237928329,
+    "Modified Date": 1744016009769,
+    "unique id": "1740237928329x437670259207943550",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ödeme Yöntemi": "Kurumsal Anlaşma",
+    "tanim_id": "1740309304400x376093428221962100",
+    "Creation Date": 1740309304400,
+    "Modified Date": 1744016009769,
+    "unique id": "1740309304400x376093428221962100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ödeme Yöntemi": "Donanım Temini",
+    "tanim_id": "1740309607951x981927904378092800",
+    "Creation Date": 1740309607951,
+    "Modified Date": 1744016009769,
+    "unique id": "1740309607951x981927904378092800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
