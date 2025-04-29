@@ -1,0 +1,32 @@
+[
+  {
+    "Çalışma Tipi": "İş Yerinde",
+    "tanim_id": "1737366350570x807343511319784800",
+    "Creation Date": 1737366350570,
+    "Modified Date": 1744016058550,
+    "unique id": "1737366350570x807343511319784800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Çalışma Tipi": "Uzaktan / Remote",
+    "tanim_id": "1737366376479x798364654318021000",
+    "Creation Date": 1737366376479,
+    "Modified Date": 1744016058550,
+    "unique id": "1737366376479x798364654318021000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Çalışma Tipi": "Hibrit",
+    "tanim_id": "1737366385197x769846731495779600",
+    "Creation Date": 1737366385197,
+    "Modified Date": 1744016058550,
+    "unique id": "1737366385197x769846731495779600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
