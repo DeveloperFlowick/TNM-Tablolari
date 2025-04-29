@@ -1,8 +1,9 @@
 [
   {
     "Faturalama Periyodu": "Aylık",
+    "tanim_id": "1708293310979x883510084855295000",
     "Creation Date": 1708293310979,
-    "Modified Date": 1708293310981,
+    "Modified Date": 1745957009332,
     "unique id": "1708293310979x883510084855295000",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -10,8 +11,9 @@
   },
   {
     "Faturalama Periyodu": "Yıllık",
+    "tanim_id": "1708293317896x711682925012929800",
     "Creation Date": 1708293317896,
-    "Modified Date": 1708293317898,
+    "Modified Date": 1745957009332,
     "unique id": "1708293317896x711682925012929800",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -19,8 +21,9 @@
   },
   {
     "Faturalama Periyodu": "Demo",
+    "tanim_id": "1708293324009x128369143988248380",
     "Creation Date": 1708293324009,
-    "Modified Date": 1708293324011,
+    "Modified Date": 1745957009332,
     "unique id": "1708293324009x128369143988248380",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
