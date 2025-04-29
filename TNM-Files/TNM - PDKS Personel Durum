@@ -1,0 +1,57 @@
+[
+  {
+    "Durum": "1709722431685x590442242104578600",
+    "Personel Durum": "Çevrimiçi",
+    "tanim_id": "1729336417625x792797691707936900",
+    "Creation Date": 1729336417625,
+    "Modified Date": 1744016008302,
+    "unique id": "1729336417625x792797691707936900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum": "1709722443895x275399868242237150",
+    "Personel Durum": "Mola",
+    "tanim_id": "1729336448496x519353188359117600",
+    "Creation Date": 1729336448496,
+    "Modified Date": 1744016008303,
+    "unique id": "1729336448496x519353188359117600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum": "1743680704648x161668162734791560",
+    "Personel Durum": "Çevrimdışı",
+    "tanim_id": "1729336457277x997608942330510000",
+    "Creation Date": 1729336457278,
+    "Modified Date": 1744016008303,
+    "unique id": "1729336457277x997608942330510000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum": "1709722431685x590442242104578600",
+    "Personel Durum": "Meşgul",
+    "tanim_id": "1729336475545x243361577418541150",
+    "Creation Date": 1729336475545,
+    "Modified Date": 1744016008303,
+    "unique id": "1729336475545x243361577418541150",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum": "1709722431685x590442242104578600",
+    "Personel Durum": "Rahatsız Etmeyin",
+    "tanim_id": "1729336511574x601462189776612900",
+    "Creation Date": 1729336511574,
+    "Modified Date": 1744016008303,
+    "unique id": "1729336511574x601462189776612900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
