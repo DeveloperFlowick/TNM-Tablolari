@@ -1,0 +1,35 @@
+[
+  {
+    "Görev Kategori Kodu": 1,
+    "tanim_id": "1723758494015x817273092060785200",
+    "Görev Kategori Adı": "Temel Görev",
+    "Creation Date": 1723758494015,
+    "Modified Date": 1744016142361,
+    "unique id": "1723758494015x817273092060785200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Kategori Kodu": 2,
+    "tanim_id": "1724284226681x375616417496485570",
+    "Görev Kategori Adı": "Düzeltici Faaliyet",
+    "Creation Date": 1724284226681,
+    "Modified Date": 1744016142362,
+    "unique id": "1724284226681x375616417496485570",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Kategori Kodu": 3,
+    "tanim_id": "1731391453608x902195239819820800",
+    "Görev Kategori Adı": "Üretim",
+    "Creation Date": 1731391453608,
+    "Modified Date": 1744016142362,
+    "unique id": "1731391453608x902195239819820800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
