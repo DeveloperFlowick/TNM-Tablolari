@@ -1,6 +1,7 @@
 [
   {
     "BE Workflow Kodu": 1,
+    "tanim_id": "",
     "BE Workflow Adı": "İzin Hak Ediş Yenileme",
     "Creation Date": 1726958398315,
     "Modified Date": 1726958398316,
@@ -11,6 +12,7 @@
   },
   {
     "BE Workflow Kodu": 2,
+    "tanim_id": "",
     "BE Workflow Adı": "PDKS Günlük Master Kaydı",
     "Creation Date": 1732477132638,
     "Modified Date": 1732477132640,
