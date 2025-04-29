@@ -1,0 +1,46 @@
+[
+  {
+    "Durum 2": "Çıkış Yapılan Ziyaretler",
+    "Durum": "Çıkış Yapmış Ziyaretçiler",
+    "Oder": 3,
+    "Creation Date": 1745239826437,
+    "Modified Date": 1745310299867,
+    "unique id": "1745239826437x449655449726656260",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum 2": "Aktif Ziyaretler",
+    "Durum": "Aktif Ziyaretçiler",
+    "Oder": 2,
+    "Creation Date": 1745239848871,
+    "Modified Date": 1745310296101,
+    "unique id": "1745239848871x230785974119011680",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum 2": "Tümü",
+    "Durum": "Tümü",
+    "Oder": 1,
+    "Creation Date": 1745239856879,
+    "Modified Date": 1745310292235,
+    "unique id": "1745239856879x474260668924656450",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum 2": "Silinen Ziyaretler",
+    "Durum": "Silinen Ziyaretler",
+    "Oder": 4,
+    "Creation Date": 1745309810344,
+    "Modified Date": 1745310303246,
+    "unique id": "1745309810344x864333532732898300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
