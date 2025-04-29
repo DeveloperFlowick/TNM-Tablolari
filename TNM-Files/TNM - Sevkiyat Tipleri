@@ -1,5 +1,6 @@
 [
   {
+    "tanim_id": "",
     "Tip Adı": "Temel Sevkiyat",
     "Tip Kodu": 1,
     "Creation Date": 1736588209175,
@@ -10,6 +11,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Gelişmiş Sevkiyat",
     "Tip Kodu": 2,
     "Creation Date": 1736588217442,
