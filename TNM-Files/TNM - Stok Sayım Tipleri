@@ -1,0 +1,32 @@
+[
+  {
+    "Tip Adı": "Envanter Sayımı",
+    "Tip Kodu": 1,
+    "Creation Date": 1736168566989,
+    "Modified Date": 1736853206885,
+    "unique id": "1736168566989x771974284866365300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Tip Adı": "Ürün Sayımı",
+    "Tip Kodu": 2,
+    "Creation Date": 1736168581722,
+    "Modified Date": 1736853214232,
+    "unique id": "1736168581722x232608123322562080",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Tip Adı": "Özel",
+    "Tip Kodu": 3,
+    "Creation Date": 1739280393632,
+    "Modified Date": 1739280393634,
+    "unique id": "1739280393632x683554946800037800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
