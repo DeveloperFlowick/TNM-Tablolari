@@ -1,0 +1,62 @@
+[
+  {
+    "Personel Tipi": "Tam Zamanlı",
+    "tanim_id": "1707915654003x451985923701202500",
+    "Creation Date": 1707915654003,
+    "Modified Date": 1744016029040,
+    "unique id": "1707915654003x451985923701202500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Personel Tipi": "Yarı Zamanlı",
+    "tanim_id": "1707915661585x355514159858448400",
+    "Creation Date": 1707915661585,
+    "Modified Date": 1744016029040,
+    "unique id": "1707915661585x355514159858448400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Personel Tipi": "Taşeron",
+    "tanim_id": "1707915672764x989489344914325000",
+    "Creation Date": 1707915672764,
+    "Modified Date": 1744016029040,
+    "unique id": "1707915672764x989489344914325000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Personel Tipi": "Stajyer",
+    "tanim_id": "1707915712546x992735761246788200",
+    "Creation Date": 1707915712546,
+    "Modified Date": 1744016029040,
+    "unique id": "1707915712546x992735761246788200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Personel Tipi": "Sözleşmeli",
+    "tanim_id": "1707923393095x942324580244153300",
+    "Creation Date": 1707923393095,
+    "Modified Date": 1744016029040,
+    "unique id": "1707923393095x942324580244153300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Personel Tipi": "Yevmiyeli",
+    "tanim_id": "1710783913268x889527920145887200",
+    "Creation Date": 1710783913268,
+    "Modified Date": 1744016029041,
+    "unique id": "1710783913268x889527920145887200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
