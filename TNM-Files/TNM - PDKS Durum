@@ -1,0 +1,57 @@
+[
+  {
+    "Durum Kodu": 1,
+    "PDKS Durum": "Çalışma",
+    "tanim_id": "1709722431685x590442242104578600",
+    "Creation Date": 1709722431685,
+    "Modified Date": 1744016065656,
+    "unique id": "1709722431685x590442242104578600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Kodu": 0,
+    "PDKS Durum": "Mola",
+    "tanim_id": "1709722443895x275399868242237150",
+    "Creation Date": 1709722443895,
+    "Modified Date": 1744016065657,
+    "unique id": "1709722443895x275399868242237150",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Kodu": 3,
+    "PDKS Durum": "İzin",
+    "tanim_id": "1743523782791x446025490215002050",
+    "Creation Date": 1743523782791,
+    "Modified Date": 1744016065657,
+    "unique id": "1743523782791x446025490215002050",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Kodu": 4,
+    "PDKS Durum": "Resmi Tatil",
+    "tanim_id": "1743523804092x756871603456712500",
+    "Creation Date": 1743523804092,
+    "Modified Date": 1744016065657,
+    "unique id": "1743523804092x756871603456712500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Kodu": 2,
+    "PDKS Durum": "Çevrimdışı",
+    "tanim_id": "1743680704648x161668162734791560",
+    "Creation Date": 1743680704648,
+    "Modified Date": 1744016065657,
+    "unique id": "1743680704648x161668162734791560",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_live",
+    "Created By - email": ""
+  }
+]
