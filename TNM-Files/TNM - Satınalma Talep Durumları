@@ -1,0 +1,68 @@
+[
+  {
+    "Durum Adı": "Onay Bekleniyor",
+    "Durum Kodu": 1,
+    "tanim_id": "1726779011280x417932125589854300",
+    "Creation Date": 1726779011280,
+    "Modified Date": 1744016030578,
+    "unique id": "1726779011280x417932125589854300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Teklif Bekleniyor",
+    "Durum Kodu": 2,
+    "tanim_id": "1726779019827x620018536028776700",
+    "Creation Date": 1726779019827,
+    "Modified Date": 1744016030578,
+    "unique id": "1726779019827x620018536028776700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Sipariş Bekleniyor",
+    "Durum Kodu": 3,
+    "tanim_id": "1726779037175x956784421852652200",
+    "Creation Date": 1726779037175,
+    "Modified Date": 1744016030578,
+    "unique id": "1726779037175x956784421852652200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Teslimat Bekleniyor",
+    "Durum Kodu": 4,
+    "tanim_id": "1726779046861x668833611282292400",
+    "Creation Date": 1726779046861,
+    "Modified Date": 1744016030583,
+    "unique id": "1726779046861x668833611282292400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Teslim Alındı",
+    "Durum Kodu": 5,
+    "tanim_id": "1726779058791x530981880804421570",
+    "Creation Date": 1726779058791,
+    "Modified Date": 1744016030583,
+    "unique id": "1726779058791x530981880804421570",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "İptal Edildi",
+    "Durum Kodu": 6,
+    "tanim_id": "1726779085727x606688422790699600",
+    "Creation Date": 1726779085727,
+    "Modified Date": 1744016030584,
+    "unique id": "1726779085727x606688422790699600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
