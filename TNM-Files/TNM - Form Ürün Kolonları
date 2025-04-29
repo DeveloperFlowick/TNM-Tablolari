@@ -2,6 +2,7 @@
   {
     "Adı": "Ürün",
     "Sıra": 1,
+    "tanim_id": "",
     "Creation Date": 1744626724551,
     "Modified Date": 1744628581977,
     "unique id": "1744626724551x872813705035567500",
@@ -12,6 +13,7 @@
   {
     "Adı": "Ürün Kodu",
     "Sıra": 2,
+    "tanim_id": "",
     "Creation Date": 1744626731645,
     "Modified Date": 1744628595450,
     "unique id": "1744626731645x377695695293295740",
@@ -22,6 +24,7 @@
   {
     "Adı": "Birim",
     "Sıra": 3,
+    "tanim_id": "",
     "Creation Date": 1744626740843,
     "Modified Date": 1744628598485,
     "unique id": "1744626740843x919435690573532500",
@@ -32,6 +35,7 @@
   {
     "Adı": "Kategori",
     "Sıra": 4,
+    "tanim_id": "",
     "Creation Date": 1744626746092,
     "Modified Date": 1744628606092,
     "unique id": "1744626746092x189862625966898960",
@@ -42,6 +46,7 @@
   {
     "Adı": "Marka",
     "Sıra": 5,
+    "tanim_id": "",
     "Creation Date": 1744626750427,
     "Modified Date": 1744628609240,
     "unique id": "1744626750427x587205627737558400",
