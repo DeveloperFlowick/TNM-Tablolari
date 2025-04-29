@@ -1,0 +1,41 @@
+[
+  {
+    "Maksimum": 1,
+    "Minimum": 1,
+    "Periyot Adı": "Yıl",
+    "Süre": 365,
+    "tanim_id": "1726262298210x620002764067227400",
+    "Creation Date": 1726262298210,
+    "Modified Date": 1744016208387,
+    "unique id": "1726262298210x620002764067227400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Maksimum": 12,
+    "Minimum": 1,
+    "Periyot Adı": "Ay",
+    "Süre": 30,
+    "tanim_id": "1726262309357x575753602969580400",
+    "Creation Date": 1726262309357,
+    "Modified Date": 1744016208387,
+    "unique id": "1726262309357x575753602969580400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Maksimum": 52,
+    "Minimum": 1,
+    "Periyot Adı": "Hafta",
+    "Süre": 7,
+    "tanim_id": "1726262320361x243350349911160000",
+    "Creation Date": 1726262320361,
+    "Modified Date": 1744016208387,
+    "unique id": "1726262320361x243350349911160000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
