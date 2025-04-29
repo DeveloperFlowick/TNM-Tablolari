@@ -1,0 +1,38 @@
+[
+  {
+    "İşlem Adı": "Görev",
+    "İşlem Tipleri": "1737617658931x840752643182312000 , 1722958670716x139816201476708140",
+    "Silindi": "",
+    "tanim_id": "1738661849719x925833387067907000",
+    "Creation Date": 1738661849719,
+    "Modified Date": 1744016055521,
+    "unique id": "1738661849719x925833387067907000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Adı": "Üretim",
+    "İşlem Tipleri": "1732617428956x831244766343065700",
+    "Silindi": "",
+    "tanim_id": "1738661856624x835584163579739100",
+    "Creation Date": 1738661856624,
+    "Modified Date": 1744016055521,
+    "unique id": "1738661856624x835584163579739100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Adı": "Kalite Kontrol",
+    "İşlem Tipleri": "1737617557207x838499340057187800",
+    "Silindi": "",
+    "tanim_id": "1738661870760x455192508259342660",
+    "Creation Date": 1738661870760,
+    "Modified Date": 1744016055522,
+    "unique id": "1738661870760x455192508259342660",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
