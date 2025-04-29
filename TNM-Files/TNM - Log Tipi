@@ -1,0 +1,90 @@
+[
+  {
+    "Log Tipi": "Onaya Gönderildi",
+    "tanim_id": "1723938862596x222043271560117280",
+    "Tip Kodu": 1,
+    "Creation Date": 1723938862596,
+    "Modified Date": 1744016212779,
+    "unique id": "1723938862596x222043271560117280",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Onaylandı",
+    "tanim_id": "1723938882255x496269138269880300",
+    "Tip Kodu": 2,
+    "Creation Date": 1723938882255,
+    "Modified Date": 1744016212779,
+    "unique id": "1723938882255x496269138269880300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Reddedildi",
+    "tanim_id": "1723938891884x906147292078224500",
+    "Tip Kodu": 3,
+    "Creation Date": 1723938891884,
+    "Modified Date": 1744016212779,
+    "unique id": "1723938891884x906147292078224500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Tamamlandı",
+    "tanim_id": "1723938904710x499889003763542140",
+    "Tip Kodu": 4,
+    "Creation Date": 1723938904710,
+    "Modified Date": 1744016212779,
+    "unique id": "1723938904710x499889003763542140",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Yorum Yapıldı",
+    "tanim_id": "1723938912838x823929578274766900",
+    "Tip Kodu": 5,
+    "Creation Date": 1723938912838,
+    "Modified Date": 1744016212780,
+    "unique id": "1723938912838x823929578274766900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Detay Güncellendi",
+    "tanim_id": "1723938929597x549589888694906430",
+    "Tip Kodu": 6,
+    "Creation Date": 1723938929597,
+    "Modified Date": 1744016212780,
+    "unique id": "1723938929597x549589888694906430",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "İptal Edildi",
+    "tanim_id": "1723938943539x538601170437195140",
+    "Tip Kodu": 7,
+    "Creation Date": 1723938943539,
+    "Modified Date": 1744016212780,
+    "unique id": "1723938943539x538601170437195140",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Log Tipi": "Durum Güncellendi",
+    "tanim_id": "1723938973163x444845840728510700",
+    "Tip Kodu": 8,
+    "Creation Date": 1723938973163,
+    "Modified Date": 1744016212780,
+    "unique id": "1723938973163x444845840728510700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
