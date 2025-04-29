@@ -1,0 +1,68 @@
+[
+  {
+    "Öncelik": 7,
+    "tanim_id": "1730844334997x525420769499781440",
+    "Vardiya Tipi": "Grup Şirket",
+    "Creation Date": 1730844334997,
+    "Modified Date": 1744016061304,
+    "unique id": "1730844334997x525420769499781440",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik": 6,
+    "tanim_id": "1730844340921x812475828308362400",
+    "Vardiya Tipi": "Şirket",
+    "Creation Date": 1730844340921,
+    "Modified Date": 1744016061304,
+    "unique id": "1730844340921x812475828308362400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik": 5,
+    "tanim_id": "1730844348740x885199600588063700",
+    "Vardiya Tipi": "Şube",
+    "Creation Date": 1730844348740,
+    "Modified Date": 1744016061304,
+    "unique id": "1730844348740x885199600588063700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik": 4,
+    "tanim_id": "1730844389044x131524580766064320",
+    "Vardiya Tipi": "Departman",
+    "Creation Date": 1730844389044,
+    "Modified Date": 1744016061305,
+    "unique id": "1730844389044x131524580766064320",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik": 2,
+    "tanim_id": "1730844435086x592070530334408300",
+    "Vardiya Tipi": "Personel",
+    "Creation Date": 1730844435086,
+    "Modified Date": 1744016061305,
+    "unique id": "1730844435086x592070530334408300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik": 1,
+    "tanim_id": "1730845100735x922447339011475100",
+    "Vardiya Tipi": "İzin",
+    "Creation Date": 1730845100735,
+    "Modified Date": 1744016061306,
+    "unique id": "1730845100735x922447339011475100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
