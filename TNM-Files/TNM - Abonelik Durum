@@ -1,17 +1,9 @@
 [
-{
-    "Abonelik Durum": "test",
-    "Creation Date": 1707943195703,
-    "Modified Date": 1707943195706,
-    "unique id": "1707943195703x893323496101069700",
-    "Slug": "",
-    "Creator": "admin_user_flowickbpm0001_test",
-    "Created By - email": ""
-  },
   {
     "Abonelik Durum": "Akitf",
+    "tanim_id": "1707943195703x893323496101065200",
     "Creation Date": 1707943195703,
-    "Modified Date": 1707943195706,
+    "Modified Date": 1745956948133,
     "unique id": "1707943195703x893323496101065200",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -19,8 +11,9 @@
   },
   {
     "Abonelik Durum": "Durduruldu",
+    "tanim_id": "1707943208898x335129084328003040",
     "Creation Date": 1707943208898,
-    "Modified Date": 1707943208901,
+    "Modified Date": 1745956948133,
     "unique id": "1707943208898x335129084328003040",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -28,8 +21,9 @@
   },
   {
     "Abonelik Durum": "İptal Edildi",
+    "tanim_id": "1707943217365x431444138453690000",
     "Creation Date": 1707943217365,
-    "Modified Date": 1707943217367,
+    "Modified Date": 1745956948133,
     "unique id": "1707943217365x431444138453690000",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -37,8 +31,9 @@
   },
   {
     "Abonelik Durum": "Ödeme Bekleniyor",
+    "tanim_id": "1707943226243x456140949830553700",
     "Creation Date": 1707943226244,
-    "Modified Date": 1707943226247,
+    "Modified Date": 1745956948133,
     "unique id": "1707943226243x456140949830553700",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -46,8 +41,9 @@
   },
   {
     "Abonelik Durum": "İptal Edildi - Ödeme Alınamadı",
+    "tanim_id": "1707943242729x224157651251781980",
     "Creation Date": 1707943242729,
-    "Modified Date": 1707943242741,
+    "Modified Date": 1745956948133,
     "unique id": "1707943242729x224157651251781980",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -55,8 +51,9 @@
   },
   {
     "Abonelik Durum": "İptal Edildi - Müşteri Talebi",
+    "tanim_id": "1707943255377x238584091027158400",
     "Creation Date": 1707943255377,
-    "Modified Date": 1707943255379,
+    "Modified Date": 1745956948133,
     "unique id": "1707943255377x238584091027158400",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
