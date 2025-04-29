@@ -1,0 +1,22 @@
+[
+  {
+    "Maaş Tipi": "Net",
+    "tanim_id": "1714719589774x158249423568564540",
+    "Creation Date": 1714719589774,
+    "Modified Date": 1744016125119,
+    "unique id": "1714719589774x158249423568564540",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Maaş Tipi": "Brüt",
+    "tanim_id": "1714719595908x134820860902453260",
+    "Creation Date": 1714719595908,
+    "Modified Date": 1744016125120,
+    "unique id": "1714719595908x134820860902453260",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
