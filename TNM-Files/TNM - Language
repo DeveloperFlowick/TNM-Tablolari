@@ -1,0 +1,26 @@
+[
+  {
+    "Country_Flag": "//3b215dbf4f9a44ea052974928edb8b28.cdn.bubble.io/f1705695119690x877243358342083600/Republic%20of%20T%C3%BCrkiye.svg",
+    "4 Digit ISO Code": "tr_tr",
+    "Speaker Glyph": "Türkçe",
+    "tanim_id": "1705695141061x381081608079306900",
+    "Creation Date": 1705695141061,
+    "Modified Date": 1744016046693,
+    "unique id": "1705695141061x381081608079306900",
+    "Slug": "",
+    "Creator": "admin_user_ateco_test",
+    "Created By - email": ""
+  },
+  {
+    "Country_Flag": "//3b215dbf4f9a44ea052974928edb8b28.cdn.bubble.io/f1705695156609x249951609266024320/United%20Kingdom.svg",
+    "4 Digit ISO Code": "en_gb",
+    "Speaker Glyph": "English",
+    "tanim_id": "1705695160682x270261626298646370",
+    "Creation Date": 1705695160682,
+    "Modified Date": 1744016046693,
+    "unique id": "1705695160682x270261626298646370",
+    "Slug": "",
+    "Creator": "admin_user_ateco_test",
+    "Created By - email": ""
+  }
+]
