@@ -1,0 +1,62 @@
+[
+  {
+    "İletişim Tipi": "Şirket Telefon",
+    "tanim_id": "1707783521030x880006741812363600",
+    "Creation Date": 1707783521030,
+    "Modified Date": 1744015993255,
+    "unique id": "1707783521030x880006741812363600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İletişim Tipi": "Şirket E-posta",
+    "tanim_id": "1707783530969x558930906930954940",
+    "Creation Date": 1707783530969,
+    "Modified Date": 1744015993255,
+    "unique id": "1707783530969x558930906930954940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İletişim Tipi": "Kişisel Telefon",
+    "tanim_id": "1707783541107x771662841020532600",
+    "Creation Date": 1707783541107,
+    "Modified Date": 1744015993256,
+    "unique id": "1707783541107x771662841020532600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İletişim Tipi": "Kişisel E-posta",
+    "tanim_id": "1707783550969x116546067050185220",
+    "Creation Date": 1707783550969,
+    "Modified Date": 1744015993256,
+    "unique id": "1707783550969x116546067050185220",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İletişim Tipi": "Dahili Telefon",
+    "tanim_id": "1707783567122x461864336163573900",
+    "Creation Date": 1707783567122,
+    "Modified Date": 1744015993256,
+    "unique id": "1707783567122x461864336163573900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İletişim Tipi": "Fax",
+    "tanim_id": "1707783583596x334773240389748300",
+    "Creation Date": 1707783583596,
+    "Modified Date": 1744015993256,
+    "unique id": "1707783583596x334773240389748300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
