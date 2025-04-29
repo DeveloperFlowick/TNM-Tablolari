@@ -1,0 +1,86 @@
+[
+  {
+    "Gün No": 1,
+    "Gün": "Pazartesi",
+    "Sıralama": 1,
+    "tanim_id": "1728856804654x843631205365710800",
+    "Creation Date": 1728856804654,
+    "Modified Date": 1744016025774,
+    "unique id": "1728856804654x843631205365710800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 2,
+    "Gün": "Salı",
+    "Sıralama": 2,
+    "tanim_id": "1728856811861x488807162049995600",
+    "Creation Date": 1728856811861,
+    "Modified Date": 1744016025774,
+    "unique id": "1728856811861x488807162049995600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 3,
+    "Gün": "Çarşamba",
+    "Sıralama": 3,
+    "tanim_id": "1728856828570x830983693754714800",
+    "Creation Date": 1728856828570,
+    "Modified Date": 1744016025774,
+    "unique id": "1728856828570x830983693754714800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 4,
+    "Gün": "Perşembe",
+    "Sıralama": 4,
+    "tanim_id": "1728856840262x867952073340425600",
+    "Creation Date": 1728856840262,
+    "Modified Date": 1744016025774,
+    "unique id": "1728856840262x867952073340425600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 5,
+    "Gün": "Cuma",
+    "Sıralama": 5,
+    "tanim_id": "1728856848945x829637518905017100",
+    "Creation Date": 1728856848945,
+    "Modified Date": 1744016025774,
+    "unique id": "1728856848945x829637518905017100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 6,
+    "Gün": "Cumartesi",
+    "Sıralama": 6,
+    "tanim_id": "1728856855657x271853114544152300",
+    "Creation Date": 1728856855657,
+    "Modified Date": 1744016025775,
+    "unique id": "1728856855657x271853114544152300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Gün No": 0,
+    "Gün": "Pazar",
+    "Sıralama": 7,
+    "tanim_id": "1728856864222x804077602055307300",
+    "Creation Date": 1728856864222,
+    "Modified Date": 1744016025775,
+    "unique id": "1728856864222x804077602055307300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
