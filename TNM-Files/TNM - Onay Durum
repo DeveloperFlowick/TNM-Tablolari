@@ -1,0 +1,35 @@
+[
+  {
+    "Durum Adı": "Onay Bekleniyor",
+    "Durum Kodu": 0,
+    "tanim_id": "1709667552227x846071128447140700",
+    "Creation Date": 1709667552227,
+    "Modified Date": 1744016011344,
+    "unique id": "1709667552227x846071128447140700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Onaylandı",
+    "Durum Kodu": 1,
+    "tanim_id": "1709667566296x946590892320802600",
+    "Creation Date": 1709667566296,
+    "Modified Date": 1744016011344,
+    "unique id": "1709667566296x946590892320802600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Durum Adı": "Reddedildi",
+    "Durum Kodu": 2,
+    "tanim_id": "1709667575609x632607706117006300",
+    "Creation Date": 1709667575609,
+    "Modified Date": 1744016011344,
+    "unique id": "1709667575609x632607706117006300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
