@@ -1,0 +1,312 @@
+[
+  {
+    "Sektör Adı": "Ağaç İşleri, Kağıt ve Kağıt Ürünleri",
+    "tanim_id": "1707949484038x897334032849279500",
+    "Creation Date": 1707949484038,
+    "Modified Date": 1744016201361,
+    "unique id": "1707949484038x897334032849279500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Otomotiv",
+    "tanim_id": "1710784254498x890359782663986800",
+    "Creation Date": 1710784254498,
+    "Modified Date": 1744016201362,
+    "unique id": "1710784254498x890359782663986800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Turizm",
+    "tanim_id": "1710784262036x360957042080451500",
+    "Creation Date": 1710784262036,
+    "Modified Date": 1744016201362,
+    "unique id": "1710784262036x360957042080451500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Gıda",
+    "tanim_id": "1710784269562x332620863879471700",
+    "Creation Date": 1710784269562,
+    "Modified Date": 1744016201362,
+    "unique id": "1710784269562x332620863879471700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Lojistik",
+    "tanim_id": "1710784277639x703337384740045900",
+    "Creation Date": 1710784277639,
+    "Modified Date": 1744016201363,
+    "unique id": "1710784277639x703337384740045900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Güvenlik",
+    "tanim_id": "1711893320097x418203788011884540",
+    "Creation Date": 1711893320097,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893320097x418203788011884540",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Hukuk",
+    "tanim_id": "1711893334637x403479566686891970",
+    "Creation Date": 1711893334637,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893334637x403479566686891970",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Bilişim Teknolojileri",
+    "tanim_id": "1711893384185x274506753040001820",
+    "Creation Date": 1711893384185,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893384185x274506753040001820",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Cam, Çimento ve Toprak",
+    "tanim_id": "1711893401252x324143699761187700",
+    "Creation Date": 1711893401252,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893401252x324143699761187700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Çevre",
+    "tanim_id": "1711893413795x982453866423088900",
+    "Creation Date": 1711893413795,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893413795x982453866423088900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Eğitim",
+    "tanim_id": "1711893426110x417830352339337400",
+    "Creation Date": 1711893426110,
+    "Modified Date": 1744016201363,
+    "unique id": "1711893426110x417830352339337400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Elektrik ve Elektronik",
+    "tanim_id": "1711893439007x572144917100637630",
+    "Creation Date": 1711893439007,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893439007x572144917100637630",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Enerji",
+    "tanim_id": "1711893454428x100213734241028080",
+    "Creation Date": 1711893454428,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893454428x100213734241028080",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Finans",
+    "tanim_id": "1711893470251x636075072270451000",
+    "Creation Date": 1711893470251,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893470251x636075072270451000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "İnşaat",
+    "tanim_id": "1711893483361x680135829302339600",
+    "Creation Date": 1711893483362,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893483361x680135829302339600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "İş ve Yönetim",
+    "tanim_id": "1711893496180x341731427660038300",
+    "Creation Date": 1711893496180,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893496180x341731427660038300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Kimya, Petrol, Lastik ve Plastik",
+    "tanim_id": "1711893511243x719457087201079900",
+    "Creation Date": 1711893511243,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893511243x719457087201079900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Kültür, Sanat ve Tasarım",
+    "tanim_id": "1711893525085x938365875476590800",
+    "Creation Date": 1711893525085,
+    "Modified Date": 1744016201364,
+    "unique id": "1711893525085x938365875476590800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Maden",
+    "tanim_id": "1711893539463x523999936240132400",
+    "Creation Date": 1711893539463,
+    "Modified Date": 1744016201365,
+    "unique id": "1711893539463x523999936240132400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Makine",
+    "tanim_id": "1711893553042x574627297610792450",
+    "Creation Date": 1711893553042,
+    "Modified Date": 1744016201365,
+    "unique id": "1711893553042x574627297610792450",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Medya, İletişim ve Yayıncılık",
+    "tanim_id": "1711893566990x609167993322838700",
+    "Creation Date": 1711893566990,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893566990x609167993322838700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Metal",
+    "tanim_id": "1711893582925x426483956297071940",
+    "Creation Date": 1711893582925,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893582925x426483956297071940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Sağlık ve Sosyal Hizmetler",
+    "tanim_id": "1711893598124x337571090852506700",
+    "Creation Date": 1711893598124,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893598124x337571090852506700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Spor ve Rekreasyon",
+    "tanim_id": "1711893613681x163290841588044300",
+    "Creation Date": 1711893613681,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893613681x163290841588044300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Tarım, Avcılık ve Balıkçılık",
+    "tanim_id": "1711893628954x739224799029793300",
+    "Creation Date": 1711893628954,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893628954x739224799029793300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Tekstil, Hazır Giyim, Deri",
+    "tanim_id": "1711893645603x931765845137607200",
+    "Creation Date": 1711893645603,
+    "Modified Date": 1744016201987,
+    "unique id": "1711893645603x931765845137607200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Ticaret (Satış ve Pazarlama)",
+    "tanim_id": "1711893660056x896067080768490100",
+    "Creation Date": 1711893660056,
+    "Modified Date": 1744016201988,
+    "unique id": "1711893660056x896067080768490100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Toplumsal ve Kişisel Hizmetler",
+    "tanim_id": "1711893675905x672349178998189200",
+    "Creation Date": 1711893675905,
+    "Modified Date": 1744016201988,
+    "unique id": "1711893675905x672349178998189200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Turizm, Konaklama, Yiyecek-İçecek Hizmetleri",
+    "tanim_id": "1711893691633x242706105474409730",
+    "Creation Date": 1711893691633,
+    "Modified Date": 1744016201988,
+    "unique id": "1711893691633x242706105474409730",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Ulaştırma, Lojistik ve Haberleşme",
+    "tanim_id": "1711893713233x575186816482247100",
+    "Creation Date": 1711893713233,
+    "Modified Date": 1744016201988,
+    "unique id": "1711893713233x575186816482247100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sektör Adı": "Endüstri",
+    "tanim_id": "1711893734090x619253090149346300",
+    "Creation Date": 1711893734090,
+    "Modified Date": 1744016201991,
+    "unique id": "1711893734090x619253090149346300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
