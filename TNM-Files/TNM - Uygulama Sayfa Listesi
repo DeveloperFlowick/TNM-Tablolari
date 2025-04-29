@@ -1,0 +1,41 @@
+[
+  {
+    "Blacklist": "1736524296976x503384741563072500",
+    "Grup Şirket": "",
+    "Sayfa Adı": "intranet",
+    "Sayfa Başlığı": "Intranet",
+    "tanim_id": "1741494588120x186058511242068060",
+    "Creation Date": 1741494588120,
+    "Modified Date": 1744015987739,
+    "unique id": "1741494588120x186058511242068060",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Blacklist": "",
+    "Grup Şirket": "",
+    "Sayfa Adı": "ana_menu",
+    "Sayfa Başlığı": "Ana Menü",
+    "tanim_id": "1741494657364x454034500348124300",
+    "Creation Date": 1741494657364,
+    "Modified Date": 1744015987739,
+    "unique id": "1741494657364x454034500348124300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Blacklist": "",
+    "Grup Şirket": "1736524296976x503384741563072500",
+    "Sayfa Adı": "nexans_dashboard",
+    "Sayfa Başlığı": "Intranet",
+    "tanim_id": "1741496775237x681422072073146100",
+    "Creation Date": 1741496775237,
+    "Modified Date": 1744015987740,
+    "unique id": "1741496775237x681422072073146100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
