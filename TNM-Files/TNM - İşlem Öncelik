@@ -1,0 +1,57 @@
+[
+  {
+    "Öncelik Adı": "Çok Düşük",
+    "Öncelik Seviyesi": 1,
+    "tanim_id": "1710198415517x480098726707298940",
+    "Creation Date": 1710198415518,
+    "Modified Date": 1744016073418,
+    "unique id": "1710198415517x480098726707298940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik Adı": "Düşük",
+    "Öncelik Seviyesi": 2,
+    "tanim_id": "1710198421827x435648836444018940",
+    "Creation Date": 1710198421827,
+    "Modified Date": 1744016073418,
+    "unique id": "1710198421827x435648836444018940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik Adı": "Orta",
+    "Öncelik Seviyesi": 3,
+    "tanim_id": "1710198428113x201524737502496220",
+    "Creation Date": 1710198428113,
+    "Modified Date": 1744016073418,
+    "unique id": "1710198428113x201524737502496220",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik Adı": "Yüksek",
+    "Öncelik Seviyesi": 4,
+    "tanim_id": "1710198433988x827848939017201900",
+    "Creation Date": 1710198433988,
+    "Modified Date": 1744016073419,
+    "unique id": "1710198433988x827848939017201900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öncelik Adı": "Çok Yüksek",
+    "Öncelik Seviyesi": 5,
+    "tanim_id": "1710198441094x190537800257065020",
+    "Creation Date": 1710198441094,
+    "Modified Date": 1744016073419,
+    "unique id": "1710198441094x190537800257065020",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
