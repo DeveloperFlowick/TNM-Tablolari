@@ -1,0 +1,35 @@
+[
+  {
+    "Onay Tipi": "Görev Onay Şeması",
+    "tanim_id": "1727605598644x823442911008564000",
+    "Tip Kodu": 1,
+    "Creation Date": 1727605598644,
+    "Modified Date": 1744016121191,
+    "unique id": "1727605598644x823442911008564000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Onay Tipi": "Seçili Personeller",
+    "tanim_id": "1727605639399x181537446096299740",
+    "Tip Kodu": 2,
+    "Creation Date": 1727605639399,
+    "Modified Date": 1744016121191,
+    "unique id": "1727605639399x181537446096299740",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Onay Tipi": "Onay Yok",
+    "tanim_id": "1727605645905x242016009120689540",
+    "Tip Kodu": 3,
+    "Creation Date": 1727605645906,
+    "Modified Date": 1744016121191,
+    "unique id": "1727605645905x242016009120689540",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
