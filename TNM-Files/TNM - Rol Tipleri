@@ -1,0 +1,32 @@
+[
+  {
+    "Rol Tipi": "Şirket Yöneticisi",
+    "tanim_id": "1737009531129x270669140609187460",
+    "Creation Date": 1737009531129,
+    "Modified Date": 1744016133008,
+    "unique id": "1737009531129x270669140609187460",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Rol Tipi": "Departman Yöneticisi",
+    "tanim_id": "1737009552223x346722736241584100",
+    "Creation Date": 1737009552223,
+    "Modified Date": 1744016133008,
+    "unique id": "1737009552223x346722736241584100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Rol Tipi": "Personel",
+    "tanim_id": "1739311937387x969205553753800700",
+    "Creation Date": 1739311937387,
+    "Modified Date": 1744016133008,
+    "unique id": "1739311937387x969205553753800700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
