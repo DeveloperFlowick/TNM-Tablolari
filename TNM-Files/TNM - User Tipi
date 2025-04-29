@@ -1,5 +1,6 @@
 [
   {
+    "tanim_id": "",
     "User Tipi": "Şirket",
     "Creation Date": 1707815539311,
     "Modified Date": 1707815563044,
@@ -9,6 +10,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "User Tipi": "B2B",
     "Creation Date": 1707815553288,
     "Modified Date": 1707815553289,
@@ -18,6 +20,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "User Tipi": "B2C",
     "Creation Date": 1707815610248,
     "Modified Date": 1707815610250,
@@ -27,6 +30,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "User Tipi": "Bayi",
     "Creation Date": 1707815620565,
     "Modified Date": 1707815620567,
@@ -36,6 +40,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "User Tipi": "Tedarikçi",
     "Creation Date": 1707815631131,
     "Modified Date": 1707815631133,
