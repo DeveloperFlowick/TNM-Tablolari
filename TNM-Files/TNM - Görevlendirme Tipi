@@ -1,0 +1,132 @@
+[
+  {
+    "Görevlendirme Tipi": "Ziyaret",
+    "tanim_id": "1710830313458x910082328584243700",
+    "Creation Date": 1710830313458,
+    "Modified Date": 1744015994715,
+    "unique id": "1710830313458x910082328584243700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Davet",
+    "tanim_id": "1710830322408x573932401706002560",
+    "Creation Date": 1710830322408,
+    "Modified Date": 1744015994716,
+    "unique id": "1710830322408x573932401706002560",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Eğitim",
+    "tanim_id": "1710830331705x580218910289616600",
+    "Creation Date": 1710830331705,
+    "Modified Date": 1744015994716,
+    "unique id": "1710830331705x580218910289616600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Sunum",
+    "tanim_id": "1710830339497x134814258238792340",
+    "Creation Date": 1710830339497,
+    "Modified Date": 1744015994716,
+    "unique id": "1710830339497x134814258238792340",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Fuar",
+    "tanim_id": "1710830352101x109963640721240320",
+    "Creation Date": 1710830352101,
+    "Modified Date": 1744015994716,
+    "unique id": "1710830352101x109963640721240320",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Sağlık Tarama",
+    "tanim_id": "1710830379762x859677467562533400",
+    "Creation Date": 1710830379763,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830379762x859677467562533400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Arıza",
+    "tanim_id": "1710830393429x287759139183952670",
+    "Creation Date": 1710830393429,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830393429x287759139183952670",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Bakım",
+    "tanim_id": "1710830406696x404831545504837900",
+    "Creation Date": 1710830406697,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830406696x404831545504837900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Montaj",
+    "tanim_id": "1710830414785x965860748042448600",
+    "Creation Date": 1710830414785,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830414785x965860748042448600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Kurulum",
+    "tanim_id": "1710830422967x772216664214497900",
+    "Creation Date": 1710830422968,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830422967x772216664214497900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Teslimat",
+    "tanim_id": "1710830446613x738102734909700200",
+    "Creation Date": 1710830446613,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830446613x738102734909700200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Söküm",
+    "tanim_id": "1710830472864x515590706539844600",
+    "Creation Date": 1710830472864,
+    "Modified Date": 1744015994717,
+    "unique id": "1710830472864x515590706539844600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görevlendirme Tipi": "Düzeltici Faaliyet",
+    "tanim_id": "1716251743057x310706224307354800",
+    "Creation Date": 1716251743057,
+    "Modified Date": 1744015994717,
+    "unique id": "1716251743057x310706224307354800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
