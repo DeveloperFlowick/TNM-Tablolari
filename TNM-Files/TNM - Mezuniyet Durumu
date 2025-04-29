@@ -1,6 +1,7 @@
 [
   {
     "Mezuniyet Durumu": "Devam Ediyor",
+    "tanim_id": "",
     "Creation Date": 1736334543294,
     "Modified Date": 1736334543296,
     "unique id": "1736334543294x560388407394168260",
@@ -10,6 +11,7 @@
   },
   {
     "Mezuniyet Durumu": "Mezun",
+    "tanim_id": "",
     "Creation Date": 1736334548864,
     "Modified Date": 1736334548865,
     "unique id": "1736334548863x586502819634616400",
