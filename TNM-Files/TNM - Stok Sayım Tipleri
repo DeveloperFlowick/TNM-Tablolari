@@ -1,5 +1,6 @@
 [
   {
+    "tanim_id": "",
     "Tip Adı": "Envanter Sayımı",
     "Tip Kodu": 1,
     "Creation Date": 1736168566989,
@@ -10,6 +11,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Ürün Sayımı",
     "Tip Kodu": 2,
     "Creation Date": 1736168581722,
@@ -20,6 +22,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Özel",
     "Tip Kodu": 3,
     "Creation Date": 1739280393632,
