@@ -1,0 +1,22 @@
+[
+  {
+    "Tip Adı": "Temel Sevkiyat",
+    "Tip Kodu": 1,
+    "Creation Date": 1736588209175,
+    "Modified Date": 1736588209179,
+    "unique id": "1736588209175x644035717109701500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Tip Adı": "Gelişmiş Sevkiyat",
+    "Tip Kodu": 2,
+    "Creation Date": 1736588217442,
+    "Modified Date": 1736588217443,
+    "unique id": "1736588217442x709317988149013800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
