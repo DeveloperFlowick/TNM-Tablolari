@@ -1,0 +1,42 @@
+[
+  {
+    "Sigorta Tipi": "Trafik Sigortası",
+    "tanim_id": "1741773959195x345195518996583400",
+    "Creation Date": 1741773959195,
+    "Modified Date": 1744015990410,
+    "unique id": "1741773959195x345195518996583400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sigorta Tipi": "Kasko",
+    "tanim_id": "1741774005644x111108001187401060",
+    "Creation Date": 1741774005644,
+    "Modified Date": 1744015990411,
+    "unique id": "1741774005644x111108001187401060",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sigorta Tipi": "Koltuk Sigortası",
+    "tanim_id": "1741774017727x618531189083088000",
+    "Creation Date": 1741774017727,
+    "Modified Date": 1744015990411,
+    "unique id": "1741774017727x618531189083088000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Sigorta Tipi": "Taşımacılık Sigortası",
+    "tanim_id": "1741774032072x587416972702624600",
+    "Creation Date": 1741774032072,
+    "Modified Date": 1744015990411,
+    "unique id": "1741774032072x587416972702624600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
