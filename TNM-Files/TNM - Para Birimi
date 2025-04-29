@@ -1,0 +1,222 @@
+[
+  {
+    "Para Birimi": "TRY",
+    "tanim_id": "1708933700098x330149536261396700",
+    "Creation Date": 1708933700098,
+    "Modified Date": 1744016217058,
+    "unique id": "1708933700098x330149536261396700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "USD",
+    "tanim_id": "1708933706895x678416702084152400",
+    "Creation Date": 1708933706895,
+    "Modified Date": 1744016217059,
+    "unique id": "1708933706895x678416702084152400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "EUR",
+    "tanim_id": "1708933713039x227960599364132480",
+    "Creation Date": 1708933713039,
+    "Modified Date": 1744016217059,
+    "unique id": "1708933713039x227960599364132480",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "GBP",
+    "tanim_id": "1711892707277x942371736655279500",
+    "Creation Date": 1711892707277,
+    "Modified Date": 1744016217059,
+    "unique id": "1711892707277x942371736655279500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "CHF",
+    "tanim_id": "1711892729711x923855340613587800",
+    "Creation Date": 1711892729711,
+    "Modified Date": 1744016217059,
+    "unique id": "1711892729711x923855340613587800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "CAD",
+    "tanim_id": "1711892746974x791298655230765700",
+    "Creation Date": 1711892746974,
+    "Modified Date": 1744016217059,
+    "unique id": "1711892746974x791298655230765700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "KWD",
+    "tanim_id": "1711892765417x540672014044003300",
+    "Creation Date": 1711892765417,
+    "Modified Date": 1744016217059,
+    "unique id": "1711892765417x540672014044003300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "NOK",
+    "tanim_id": "1711892772715x152029985902460740",
+    "Creation Date": 1711892772715,
+    "Modified Date": 1744016217059,
+    "unique id": "1711892772715x152029985902460740",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "SAR",
+    "tanim_id": "1711892788249x947996993069347700",
+    "Creation Date": 1711892788249,
+    "Modified Date": 1744016217060,
+    "unique id": "1711892788249x947996993069347700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "JPY",
+    "tanim_id": "1711892796443x829710410623912000",
+    "Creation Date": 1711892796443,
+    "Modified Date": 1744016217060,
+    "unique id": "1711892796443x829710410623912000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "BGN",
+    "tanim_id": "1711892810801x293376334522062140",
+    "Creation Date": 1711892810801,
+    "Modified Date": 1744016217060,
+    "unique id": "1711892810801x293376334522062140",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "RON",
+    "tanim_id": "1711892817975x510049116057920100",
+    "Creation Date": 1711892817975,
+    "Modified Date": 1744016217060,
+    "unique id": "1711892817975x510049116057920100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "RUB",
+    "tanim_id": "1711892837646x738399012104950100",
+    "Creation Date": 1711892837646,
+    "Modified Date": 1744016217060,
+    "unique id": "1711892837646x738399012104950100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "CNY",
+    "tanim_id": "1711892845756x366225443361178900",
+    "Creation Date": 1711892845756,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892845756x366225443361178900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "QAR",
+    "tanim_id": "1711892866270x443435852985155200",
+    "Creation Date": 1711892866270,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892866270x443435852985155200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "AZN",
+    "tanim_id": "1711892873012x494678074850853250",
+    "Creation Date": 1711892873012,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892873012x494678074850853250",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "AED",
+    "tanim_id": "1711892891592x703277053415750900",
+    "Creation Date": 1711892891592,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892891592x703277053415750900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "IRR",
+    "tanim_id": "1711892946564x871711855327993900",
+    "Creation Date": 1711892946564,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892946564x871711855327993900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "PKR",
+    "tanim_id": "1711892974867x464470968064812900",
+    "Creation Date": 1711892974867,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892974867x464470968064812900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "SEK",
+    "tanim_id": "1711892991210x634183304824897700",
+    "Creation Date": 1711892991210,
+    "Modified Date": 1744016217061,
+    "unique id": "1711892991210x634183304824897700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "DKK",
+    "tanim_id": "1711893000232x371150595260683970",
+    "Creation Date": 1711893000232,
+    "Modified Date": 1744016217262,
+    "unique id": "1711893000232x371150595260683970",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Para Birimi": "KRW",
+    "tanim_id": "1711893024463x510556860533396100",
+    "Creation Date": 1711893024463,
+    "Modified Date": 1744016217262,
+    "unique id": "1711893024463x510556860533396100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
