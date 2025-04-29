@@ -1,0 +1,32 @@
+[
+  {
+    "Grup Adı": "Fiziksel Özellikler",
+    "tanim_id": "1727336583417x275402000782065900",
+    "Creation Date": 1727336583417,
+    "Modified Date": 1744016017390,
+    "unique id": "1727336583417x275402000782065900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Grup Adı": "Teknik Özellikler",
+    "tanim_id": "1727336592893x732912642352029200",
+    "Creation Date": 1727336592893,
+    "Modified Date": 1744016017390,
+    "unique id": "1727336592893x732912642352029200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Grup Adı": "Garanti Bilgileri",
+    "tanim_id": "1727336627635x845119823487722900",
+    "Creation Date": 1727336627635,
+    "Modified Date": 1744016017390,
+    "unique id": "1727336627635x845119823487722900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
