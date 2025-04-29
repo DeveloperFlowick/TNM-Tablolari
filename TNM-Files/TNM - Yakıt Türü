@@ -1,0 +1,42 @@
+[
+  {
+    "tanim_id": "1741880913175x711481279136726400",
+    "Yakıt Türü": "Benzin",
+    "Creation Date": 1741880913175,
+    "Modified Date": 1744016104962,
+    "unique id": "1741880913175x711481279136726400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1741880925139x970835983408546700",
+    "Yakıt Türü": "Dizel",
+    "Creation Date": 1741880925139,
+    "Modified Date": 1744016104962,
+    "unique id": "1741880925139x970835983408546700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1741881016063x122667578878915330",
+    "Yakıt Türü": "Hibrit",
+    "Creation Date": 1741881016063,
+    "Modified Date": 1744016104963,
+    "unique id": "1741881016063x122667578878915330",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1741881034904x360358172106289150",
+    "Yakıt Türü": "Elektirikli",
+    "Creation Date": 1741881034904,
+    "Modified Date": 1744016104963,
+    "unique id": "1741881034904x360358172106289150",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
