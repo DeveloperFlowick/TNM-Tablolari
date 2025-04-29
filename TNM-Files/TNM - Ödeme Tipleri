@@ -1,0 +1,62 @@
+[
+  {
+    "İşlem Tipleri": "1722958712017x875662558594017200 , 1722958723725x224864310317071330 , 1709840857535x862539398213679500 , 1709840867381x344959508886433200 , 1722958735705x914106346993476900",
+    "Ödeme Tipi": "Peşin",
+    "Taksitli": false,
+    "tanim_id": "1722964610427x437395373909728260",
+    "Creation Date": 1722964610427,
+    "Modified Date": 1744016076448,
+    "unique id": "1722964610427x437395373909728260",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipleri": "1722958712017x875662558594017200 , 1722958723725x224864310317071330 , 1709840857535x862539398213679500 , 1722958735705x914106346993476900",
+    "Ödeme Tipi": "Taksitli",
+    "Taksitli": true,
+    "tanim_id": "1722964621554x821872947720536400",
+    "Creation Date": 1722964621555,
+    "Modified Date": 1744016076459,
+    "unique id": "1722964621554x821872947720536400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipleri": "1722958712017x875662558594017200 , 1722958723725x224864310317071330 , 1722958735705x914106346993476900",
+    "Ödeme Tipi": "Vadeli",
+    "Taksitli": false,
+    "tanim_id": "1722964632368x714578930250834300",
+    "Creation Date": 1722964632368,
+    "Modified Date": 1744016076460,
+    "unique id": "1722964632368x714578930250834300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipleri": "1722958712017x875662558594017200 , 1722958723725x224864310317071330 , 1722958735705x914106346993476900",
+    "Ödeme Tipi": "Kiralama",
+    "Taksitli": true,
+    "tanim_id": "1722964638575x772088102694191900",
+    "Creation Date": 1722964638575,
+    "Modified Date": 1744016076460,
+    "unique id": "1722964638575x772088102694191900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipleri": "1709840867381x344959508886433200 , 1722958735705x914106346993476900",
+    "Ödeme Tipi": "Kredi Kartı",
+    "Taksitli": false,
+    "tanim_id": "1724080615854x499516032064963650",
+    "Creation Date": 1724080615854,
+    "Modified Date": 1744016076460,
+    "unique id": "1724080615854x499516032064963650",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
