@@ -1,0 +1,42 @@
+[
+  {
+    "Ürün Türü": "Ham Madde",
+    "tanim_id": "1713292555658x594859845268618200",
+    "Creation Date": 1713292555658,
+    "Modified Date": 1744016109408,
+    "unique id": "1713292555658x594859845268618200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ürün Türü": "Yarı Mamül",
+    "tanim_id": "1713292568595x274862444028554980",
+    "Creation Date": 1713292568596,
+    "Modified Date": 1744016109409,
+    "unique id": "1713292568595x274862444028554980",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ürün Türü": "Mamül",
+    "tanim_id": "1713292628994x733562023603812100",
+    "Creation Date": 1713292628994,
+    "Modified Date": 1744016109409,
+    "unique id": "1713292628994x733562023603812100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Ürün Türü": "Hizmet",
+    "tanim_id": "1713292638610x552551875794721660",
+    "Creation Date": 1713292638610,
+    "Modified Date": 1744016109409,
+    "unique id": "1713292638610x552551875794721660",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
