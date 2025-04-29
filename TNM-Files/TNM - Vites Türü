@@ -1,0 +1,32 @@
+[
+  {
+    "tanim_id": "1741880530493x419372657196661200",
+    "Vites Türü": "Otomatik",
+    "Creation Date": 1741880530493,
+    "Modified Date": 1744016016205,
+    "unique id": "1741880530493x419372657196661200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1741880538266x576976644069319200",
+    "Vites Türü": "Manuel",
+    "Creation Date": 1741880538266,
+    "Modified Date": 1744016016205,
+    "unique id": "1741880538266x576976644069319200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "tanim_id": "1741880547889x857878583368683500",
+    "Vites Türü": "Yarı Otomatik",
+    "Creation Date": 1741880547889,
+    "Modified Date": 1744016016205,
+    "unique id": "1741880547889x857878583368683500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
