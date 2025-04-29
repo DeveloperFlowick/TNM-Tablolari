@@ -1,0 +1,22 @@
+[
+  {
+    "Kur-BankaAdı": "Merkez Bankası",
+    "Kur-BankaKodu": 1,
+    "Creation Date": 1723534317372,
+    "Modified Date": 1723534317377,
+    "unique id": "1723534317372x363574089896526700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Kur-BankaAdı": "Nosy API",
+    "Kur-BankaKodu": 2,
+    "Creation Date": 1723534329026,
+    "Modified Date": 1723534329027,
+    "unique id": "1723534329026x780906813912839400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
