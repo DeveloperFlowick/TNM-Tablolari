@@ -1,0 +1,57 @@
+[
+  {
+    "Görev": true,
+    "tanim_id": "1723907155565x318802350683820200",
+    "Görev Tipi": "Görev",
+    "Creation Date": 1723907155565,
+    "Modified Date": 1744016106706,
+    "unique id": "1723907155565x318802350683820200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev": true,
+    "tanim_id": "1723907161463x819787364829732700",
+    "Görev Tipi": "Alt Görev",
+    "Creation Date": 1723907161464,
+    "Modified Date": 1744016106706,
+    "unique id": "1723907161463x819787364829732700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev": true,
+    "tanim_id": "1723907168313x467398229334774900",
+    "Görev Tipi": "Hata",
+    "Creation Date": 1723907168313,
+    "Modified Date": 1744016106706,
+    "unique id": "1723907168313x467398229334774900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev": false,
+    "tanim_id": "1723907175662x508366876455611700",
+    "Görev Tipi": "Ana Konu",
+    "Creation Date": 1723907175662,
+    "Modified Date": 1744016106706,
+    "unique id": "1723907175662x508366876455611700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev": true,
+    "tanim_id": "1734357759458x305611685292762800",
+    "Görev Tipi": "Arıza",
+    "Creation Date": 1734357759458,
+    "Modified Date": 1744016106707,
+    "unique id": "1734357759458x305611685292762800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
