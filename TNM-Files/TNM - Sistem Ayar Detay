@@ -1,0 +1,62 @@
+[
+  {
+    "Açıklama": "Kullanıcı oturum açarken Google Authenticator uygulasından aldığı tek kullanımlık şifre ile giriş yapar",
+    "Ad": "2 Faktörlü Doğrulama",
+    "Master": "1741046155560x499628611079363260",
+    "tanim_id": "1741046181182x192045409348552860",
+    "Creation Date": 1741046181182,
+    "Modified Date": 1744016032057,
+    "unique id": "1741046181182x192045409348552860",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "Kullanıcı yeni bir cihazda oturum açtığında diğer cihazlardaki oturumları kapanır",
+    "Ad": "Oturum Kapatma",
+    "Master": "1741046155560x499628611079363260",
+    "tanim_id": "1741046239683x407614506449178300",
+    "Creation Date": 1741046239683,
+    "Modified Date": 1744016032057,
+    "unique id": "1741046239683x407614506449178300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "Her gün saat 00:00'da kullanıcıların oturumları aktif olarak sonlandırılır.",
+    "Ad": "Gün Sonu Oturum Sonlandırma",
+    "Master": "1741046155560x499628611079363260",
+    "tanim_id": "1741046401176x293480701116434400",
+    "Creation Date": 1741046401176,
+    "Modified Date": 1744016032057,
+    "unique id": "1741046401176x293480701116434400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "",
+    "Ad": "Fiyat Bilgisi",
+    "Master": "1741054573154x831044152300127100",
+    "tanim_id": "1741055020450x464290635525717250",
+    "Creation Date": 1741055020450,
+    "Modified Date": 1744016032057,
+    "unique id": "1741055020450x464290635525717250",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Açıklama": "",
+    "Ad": "Envanter Birim Miktar",
+    "Master": "1741054573154x831044152300127100",
+    "tanim_id": "1741689592558x705529923952665300",
+    "Creation Date": 1741689592558,
+    "Modified Date": 1744016032058,
+    "unique id": "1741689592558x705529923952665300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
