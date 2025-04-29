@@ -1,0 +1,50 @@
+[
+  {
+    "İşlem Tipi": "1740904894717x714703714352663200",
+    "Altmodül": "1740904476056x191826048980154900",
+    "tanim_id": "1716248149307x400539467540542000",
+    "Yön": "Giriş",
+    "Creation Date": 1716248149307,
+    "Modified Date": 1744015989067,
+    "unique id": "1716248149307x400539467540542000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipi": "1740904909623x428718966675568000",
+    "Altmodül": "1740904597399x257546214337702760",
+    "tanim_id": "1716248156062x163110579612926400",
+    "Yön": "Çıkış",
+    "Creation Date": 1716248156062,
+    "Modified Date": 1744015989068,
+    "unique id": "1716248156062x163110579612926400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipi": "1740904949274x240297343170063900",
+    "Altmodül": "1740904636946x892047889633810800",
+    "tanim_id": "1717028004971x264838339492816220",
+    "Yön": "Transfer",
+    "Creation Date": 1717028004971,
+    "Modified Date": 1744015989068,
+    "unique id": "1717028004971x264838339492816220",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "İşlem Tipi": "1740904962216x566783312585278340",
+    "Altmodül": "1740904674349x183352330755262460",
+    "tanim_id": "1717028012288x562450135729410300",
+    "Yön": "Zimmet",
+    "Creation Date": 1717028012288,
+    "Modified Date": 1744015989068,
+    "unique id": "1717028012288x562450135729410300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
