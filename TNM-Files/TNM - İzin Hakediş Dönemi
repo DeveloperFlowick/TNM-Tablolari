@@ -1,0 +1,46 @@
+[
+  {
+    "Dönem Kodu": 1,
+    "tanim_id": "1719937390015x125332141273759580",
+    "Hakediş Dönemi": "Kıdem Tarihi",
+    "Creation Date": 1719937390015,
+    "Modified Date": 1744016027652,
+    "unique id": "1719937390015x125332141273759580",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Dönem Kodu": 2,
+    "tanim_id": "1719937400074x775037231055637800",
+    "Hakediş Dönemi": "Dönem Başlangıcı",
+    "Creation Date": 1719937400074,
+    "Modified Date": 1744016027653,
+    "unique id": "1719937400074x775037231055637800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Dönem Kodu": 3,
+    "tanim_id": "1724827511063x954543406752106100",
+    "Hakediş Dönemi": "Doğum Günü",
+    "Creation Date": 1724827511063,
+    "Modified Date": 1744016027653,
+    "unique id": "1724827511063x954543406752106100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Dönem Kodu": 4,
+    "tanim_id": "1726482097171x957106635140274600",
+    "Hakediş Dönemi": "Özel",
+    "Creation Date": 1726482097171,
+    "Modified Date": 1744016027653,
+    "unique id": "1726482097171x957106635140274600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
