@@ -2,6 +2,7 @@
   {
     "Durum Adı": "Vazgeçildi",
     "Durum ID": 0,
+    "tanim_id": "",
     "Creation Date": 1724229394442,
     "Modified Date": 1724229394443,
     "unique id": "1724229394442x501159031347971000",
@@ -12,6 +13,7 @@
   {
     "Durum Adı": "Çözüm Sağlandı",
     "Durum ID": 1,
+    "tanim_id": "",
     "Creation Date": 1724229406764,
     "Modified Date": 1724229406765,
     "unique id": "1724229406764x443478532688418750",
@@ -22,6 +24,7 @@
   {
     "Durum Adı": "İşlem Yapılıyor",
     "Durum ID": 2,
+    "tanim_id": "",
     "Creation Date": 1724229421193,
     "Modified Date": 1724229421194,
     "unique id": "1724229421193x936062780283010400",
@@ -32,6 +35,7 @@
   {
     "Durum Adı": "Devam Ediyor",
     "Durum ID": 3,
+    "tanim_id": "",
     "Creation Date": 1724229463695,
     "Modified Date": 1731659051418,
     "unique id": "1724229463695x575374723984978500",
