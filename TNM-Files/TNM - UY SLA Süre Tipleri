@@ -1,5 +1,6 @@
 [
   {
+    "tanim_id": "",
     "Tip Adı": "Dakika",
     "Tip ID": 1,
     "Creation Date": 1732180760346,
@@ -10,6 +11,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Saat",
     "Tip ID": 2,
     "Creation Date": 1732180771242,
@@ -20,6 +22,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Gün",
     "Tip ID": 3,
     "Creation Date": 1732180792778,
@@ -30,6 +33,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Hafta",
     "Tip ID": 4,
     "Creation Date": 1732180797903,
@@ -40,6 +44,7 @@
     "Created By - email": ""
   },
   {
+    "tanim_id": "",
     "Tip Adı": "Ay",
     "Tip ID": 5,
     "Creation Date": 1732180806386,
