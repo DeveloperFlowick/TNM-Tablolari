@@ -1,0 +1,35 @@
+[
+  {
+    "Öğün": "Kahvaltı",
+    "Sıralama": 0,
+    "tanim_id": "1723459755289x404024620013715650",
+    "Creation Date": 1723459755289,
+    "Modified Date": 1744016206283,
+    "unique id": "1723459755289x404024620013715650",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öğün": "Öğle Yemeği",
+    "Sıralama": 1,
+    "tanim_id": "1723459794216x533277658643125570",
+    "Creation Date": 1723459794216,
+    "Modified Date": 1744016206283,
+    "unique id": "1723459794216x533277658643125570",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Öğün": "Akşam Yemeği",
+    "Sıralama": 2,
+    "tanim_id": "1723459803208x296009225447296800",
+    "Creation Date": 1723459803208,
+    "Modified Date": 1744016206283,
+    "unique id": "1723459803208x296009225447296800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
