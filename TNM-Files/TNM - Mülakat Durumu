@@ -1,0 +1,42 @@
+[
+  {
+    "Mülakat Durum": "Planlandı",
+    "tanim_id": "1737969389205x788502589423633700",
+    "Creation Date": 1737969389205,
+    "Modified Date": 1744016134193,
+    "unique id": "1737969389205x788502589423633700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Mülakat Durum": "Gerçekleşti",
+    "tanim_id": "1737969398631x973148700170681300",
+    "Creation Date": 1737969398631,
+    "Modified Date": 1744016134193,
+    "unique id": "1737969398631x973148700170681300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Mülakat Durum": "İptal Edildi",
+    "tanim_id": "1737969411457x263093664493772480",
+    "Creation Date": 1737969411457,
+    "Modified Date": 1744016134193,
+    "unique id": "1737969411457x263093664493772480",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Mülakat Durum": "Planlama Bekleniyor",
+    "tanim_id": "1737979203059x376703308360423700",
+    "Creation Date": 1737979203059,
+    "Modified Date": 1744016134194,
+    "unique id": "1737979203059x376703308360423700",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
