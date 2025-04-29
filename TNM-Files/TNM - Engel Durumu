@@ -1,6 +1,7 @@
 [
   {
     "Engel Durumu": "Var",
+    "tanım_id": "",
     "Creation Date": 1736334585157,
     "Modified Date": 1736334585158,
     "unique id": "1736334585157x552344441233568500",
@@ -10,6 +11,7 @@
   },
   {
     "Engel Durumu": "Yok",
+    "tanım_id": "",
     "Creation Date": 1736334590093,
     "Modified Date": 1736334590095,
     "unique id": "1736334590093x167637388071024260",
