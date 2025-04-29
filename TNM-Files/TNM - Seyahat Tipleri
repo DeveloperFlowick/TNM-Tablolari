@@ -1,0 +1,52 @@
+[
+  {
+    "Seyahat Tipi": "Şirket Aracı",
+    "tanim_id": "1710829053156x494742999925758850",
+    "Creation Date": 1710829053156,
+    "Modified Date": 1744016059788,
+    "unique id": "1710829053156x494742999925758850",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Seyahat Tipi": "Otobüs",
+    "tanim_id": "1710829067498x716728571945139100",
+    "Creation Date": 1710829067498,
+    "Modified Date": 1744016059788,
+    "unique id": "1710829067498x716728571945139100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Seyahat Tipi": "Uçak",
+    "tanim_id": "1710829075489x601026636524619300",
+    "Creation Date": 1710829075489,
+    "Modified Date": 1744016059788,
+    "unique id": "1710829075489x601026636524619300",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Seyahat Tipi": "Tren",
+    "tanim_id": "1710829087237x333500362462501250",
+    "Creation Date": 1710829087237,
+    "Modified Date": 1744016059788,
+    "unique id": "1710829087237x333500362462501250",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Seyahat Tipi": "Diğer",
+    "tanim_id": "1710829110639x265306986287636930",
+    "Creation Date": 1710829110639,
+    "Modified Date": 1744016059788,
+    "unique id": "1710829110639x265306986287636930",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
