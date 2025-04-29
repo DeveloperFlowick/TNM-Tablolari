@@ -1,0 +1,22 @@
+[
+  {
+    "Medeni Durum": "Evli",
+    "tanim_id": "1709001188337x818115912916924000",
+    "Creation Date": 1709001188337,
+    "Modified Date": 1744016022419,
+    "unique id": "1709001188337x818115912916924000",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Medeni Durum": "Bekar",
+    "tanim_id": "1709001194239x270743140013677730",
+    "Creation Date": 1709001194239,
+    "Modified Date": 1744016022420,
+    "unique id": "1709001194239x270743140013677730",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
