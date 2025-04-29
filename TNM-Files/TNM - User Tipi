@@ -1,0 +1,47 @@
+[
+  {
+    "User Tipi": "Şirket",
+    "Creation Date": 1707815539311,
+    "Modified Date": 1707815563044,
+    "unique id": "1707815539310x361047251173879200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "User Tipi": "B2B",
+    "Creation Date": 1707815553288,
+    "Modified Date": 1707815553289,
+    "unique id": "1707815553288x480111238016173630",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "User Tipi": "B2C",
+    "Creation Date": 1707815610248,
+    "Modified Date": 1707815610250,
+    "unique id": "1707815610248x546865811938957100",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "User Tipi": "Bayi",
+    "Creation Date": 1707815620565,
+    "Modified Date": 1707815620567,
+    "unique id": "1707815620565x829967247990224600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "User Tipi": "Tedarikçi",
+    "Creation Date": 1707815631131,
+    "Modified Date": 1707815631133,
+    "unique id": "1707815631131x477654105002922800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
