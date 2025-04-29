@@ -1,0 +1,32 @@
+[
+  {
+    "Stok Takip Tipi": "Seri No",
+    "tanim_id": "1713292440804x936125592913250400",
+    "Creation Date": 1713292440804,
+    "Modified Date": 1744016079616,
+    "unique id": "1713292440804x936125592913250400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Stok Takip Tipi": "Stoksuz",
+    "tanim_id": "1713292455015x544771050078455940",
+    "Creation Date": 1713292455015,
+    "Modified Date": 1744016079616,
+    "unique id": "1713292455015x544771050078455940",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Stok Takip Tipi": "Birim Bazlı",
+    "tanim_id": "1713292501571x390013713824297150",
+    "Creation Date": 1713292501571,
+    "Modified Date": 1744016079616,
+    "unique id": "1713292501571x390013713824297150",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
