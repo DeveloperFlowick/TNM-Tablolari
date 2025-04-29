@@ -1,8 +1,9 @@
 [
   {
     "Abonelik Tipi": "Demo",
+    "tanim_id": "1707943018505x792324848607004400",
     "Creation Date": 1707943018505,
-    "Modified Date": 1707943018507,
+    "Modified Date": 1745957254157,
     "unique id": "1707943018505x792324848607004400",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
@@ -10,8 +11,9 @@
   },
   {
     "Abonelik Tipi": "Lisanslı",
+    "tanim_id": "1707943026422x871630119094854100",
     "Creation Date": 1707943026422,
-    "Modified Date": 1707943026424,
+    "Modified Date": 1745957254157,
     "unique id": "1707943026422x871630119094854100",
     "Slug": "",
     "Creator": "admin_user_flowickbpm0001_test",
