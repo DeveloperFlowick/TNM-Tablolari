@@ -1,0 +1,68 @@
+[
+  {
+    "Masraf Tipi": "Temsil ve Ağırlama",
+    "Order": 5,
+    "tanim_id": "1710781900163x988147752674831500",
+    "Creation Date": 1710781900163,
+    "Modified Date": 1744016074692,
+    "unique id": "1710781900163x988147752674831500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Masraf Tipi": "Yol",
+    "Order": 4,
+    "tanim_id": "1710781910178x106565721910190750",
+    "Creation Date": 1710781910178,
+    "Modified Date": 1744016074692,
+    "unique id": "1710781910178x106565721910190750",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Masraf Tipi": "Yakıt",
+    "Order": 3,
+    "tanim_id": "1710781918028x923422526419778600",
+    "Creation Date": 1710781918028,
+    "Modified Date": 1744016074693,
+    "unique id": "1710781918028x923422526419778600",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Masraf Tipi": "Yemek",
+    "Order": 2,
+    "tanim_id": "1710781930001x248269735894262500",
+    "Creation Date": 1710781930002,
+    "Modified Date": 1744016074693,
+    "unique id": "1710781930001x248269735894262500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Masraf Tipi": "Konaklama",
+    "Order": 1,
+    "tanim_id": "1710781975268x579272121198199400",
+    "Creation Date": 1710781975268,
+    "Modified Date": 1744016074693,
+    "unique id": "1710781975268x579272121198199400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Masraf Tipi": "Diğer",
+    "Order": 6,
+    "tanim_id": "1710781984748x238520996228363650",
+    "Creation Date": 1710781984748,
+    "Modified Date": 1744016074693,
+    "unique id": "1710781984748x238520996228363650",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
