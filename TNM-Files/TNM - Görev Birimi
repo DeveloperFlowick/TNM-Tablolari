@@ -1,0 +1,67 @@
+[
+  {
+    "Görev Birimi": "Personel",
+    "Icon Beyaz": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724435017824x716211231704714000/User%20Hand%20Up.svg",
+    "Icon": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724435013384x249204787040125500/User%20Hand%20Up-1.svg",
+    "Sıralama": 1,
+    "tanim_id": "1724430908484x858859520029232400",
+    "Creation Date": 1724430908484,
+    "Modified Date": 1744016024456,
+    "unique id": "1724430908484x858859520029232400",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Birimi": "Departman",
+    "Icon Beyaz": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724435382389x327242889702124860/Users%20Group%20Two%20Rounded.svg",
+    "Icon": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724435378139x186740737503413570/Users%20Group%20Two%20Rounded-1.svg",
+    "Sıralama": 3,
+    "tanim_id": "1724430914579x715495333030140200",
+    "Creation Date": 1724430914579,
+    "Modified Date": 1744016024457,
+    "unique id": "1724430914579x715495333030140200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Birimi": "Şube",
+    "Icon Beyaz": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434691443x579323410806483300/Alt%20Birimler.svg",
+    "Icon": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434687039x994992174440179100/Alt%20Birimler-1.svg",
+    "Sıralama": 4,
+    "tanim_id": "1724430921350x431562357912356200",
+    "Creation Date": 1724430921350,
+    "Modified Date": 1744016024457,
+    "unique id": "1724430921350x431562357912356200",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Birimi": "Şirket",
+    "Icon Beyaz": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434728227x204328679823821300/Firmalar.svg",
+    "Icon": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434758062x376208246557398600/Firmalar-8.svg",
+    "Sıralama": 5,
+    "tanim_id": "1724430932507x966684303689952900",
+    "Creation Date": 1724430932507,
+    "Modified Date": 1744016024457,
+    "unique id": "1724430932507x966684303689952900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Görev Birimi": "Görev Takımı",
+    "Icon Beyaz": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434863362x693746303064888300/Personel%20Listesi.svg",
+    "Icon": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1724434853509x577148872879054600/Personel%20Listesi-8.svg",
+    "Sıralama": 2,
+    "tanim_id": "1724430942328x892698907533399900",
+    "Creation Date": 1724430942328,
+    "Modified Date": 1744016024457,
+    "unique id": "1724430942328x892698907533399900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
