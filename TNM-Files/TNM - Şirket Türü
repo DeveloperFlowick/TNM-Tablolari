@@ -1,0 +1,42 @@
+[
+  {
+    "Şirket Türü": "Anonim Şirketi",
+    "tanim_id": "1708983244623x629824917044526500",
+    "Creation Date": 1708983244623,
+    "Modified Date": 1744016021025,
+    "unique id": "1708983244623x629824917044526500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Şirket Türü": "Limited Şirketi",
+    "tanim_id": "1708983254235x138112608828771860",
+    "Creation Date": 1708983254235,
+    "Modified Date": 1744016021025,
+    "unique id": "1708983254235x138112608828771860",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Şirket Türü": "Şahıs Şirketi",
+    "tanim_id": "1708983262219x824102187851350500",
+    "Creation Date": 1708983262219,
+    "Modified Date": 1744016021026,
+    "unique id": "1708983262219x824102187851350500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Şirket Türü": "Adi Ortaklık",
+    "tanim_id": "1710784313035x761792700954571500",
+    "Creation Date": 1710784313035,
+    "Modified Date": 1744016021026,
+    "unique id": "1710784313035x761792700954571500",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  }
+]
