@@ -4,8 +4,8 @@
     "4 Digit ISO Code": "tr_tr",
     "Speaker Glyph": "Türkçe",
     "tanim_id": "1705695141061x381081608079306900",
-    "Creation Date": 1705695141061,
-    "Modified Date": 1744016046693,
+    "Creation Date": "Jan 19, 2024 11:12 pm",
+    "Modified Date": "Apr 7, 2025 11:54 am",
     "unique id": "1705695141061x381081608079306900",
     "Slug": "",
     "Creator": "admin_user_ateco_test",
@@ -16,11 +16,35 @@
     "4 Digit ISO Code": "en_gb",
     "Speaker Glyph": "English",
     "tanim_id": "1705695160682x270261626298646370",
-    "Creation Date": 1705695160682,
-    "Modified Date": 1744016046693,
+    "Creation Date": "Jan 19, 2024 11:12 pm",
+    "Modified Date": "Apr 7, 2025 11:54 am",
     "unique id": "1705695160682x270261626298646370",
     "Slug": "",
     "Creator": "admin_user_ateco_test",
+    "Created By - email": ""
+  },
+  {
+    "Country_Flag": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1747178727860x697662083497557100/images.png",
+    "4 Digit ISO Code": "de_de",
+    "Speaker Glyph": "Deutsch",
+    "tanim_id": "",
+    "Creation Date": "May 14, 2025 2:12 am",
+    "Modified Date": "May 14, 2025 2:25 am",
+    "unique id": "1747177976333x643558233210401800",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
+    "Created By - email": ""
+  },
+  {
+    "Country_Flag": "//23d7fed98fac1f769d43380ea711ff88.cdn.bubble.io/f1747178714758x250920951371591970/Flag_of_the_People%27s_Republic_of_China.svg",
+    "4 Digit ISO Code": "zh_ch",
+    "Speaker Glyph": "中国人",
+    "tanim_id": "",
+    "Creation Date": "May 14, 2025 2:14 am",
+    "Modified Date": "May 14, 2025 2:25 am",
+    "unique id": "1747178065886x780732556838287900",
+    "Slug": "",
+    "Creator": "admin_user_flowickbpm0001_test",
     "Created By - email": ""
   }
 ]
